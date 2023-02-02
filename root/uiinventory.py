@@ -1460,12 +1460,18 @@ class InventoryWindow(ui.ScriptWindow):
 			
 		if srcItemSlotPos == dstItemSlotPos:
 			return
+		if item.IsRefineScroll(srcItemVID):
+			if player.GetItemIndex(srcItemSlotPos) == player.GetItemIndex(dstItemSlotPos):
+				self.__SendMoveItemPacket(srcItemSlotPos, dstItemSlotPos,0)
+			else:
+				self.RefineItem(srcItemSlotPos, dstItemSlotPos)
+				self.wndItem.SetUseMode(FALSE)
 		
 		if item.IsRefineScroll(srcItemVID):
 			self.RefineItem(srcItemSlotPos, dstItemSlotPos)
 			self.wndItem.SetUseMode(FALSE)
 
-		elif item.IsMetin(srcItemVID):
+		elif item.IsMetin(srcItemVID) and not item.IsMetin(player.GetItemIndex(dstItemSlotPos)):
 			self.AttachMetinToItem(srcItemSlotPos, dstItemSlotPos)
 
 		elif item.IsDetachScroll(srcItemVID):
@@ -1820,11 +1826,11 @@ class InventoryWindow(ui.ScriptWindow):
 				return TRUE
 
 		if item.IsRefineScroll(srcItemVNum):
-			if player.REFINE_OK == player.CanRefine(srcItemVNum, dstSlotPos):
+			if player.REFINE_OK == player.CanRefine(srcItemVNum, dstSlotPos) or player.GetItemIndex(dstSlotPos) == srcItemVNum:
 				return TRUE
 		elif item.IsMetin(srcItemVNum):
-			if player.ATTACH_METIN_OK == player.CanAttachMetin(srcItemVNum, dstSlotPos):
-				return TRUE
+			if player.ATTACH_METIN_OK == player.CanAttachMetin(srcItemVNum, dstSlotPos) or (item.IsMetin(player.GetItemIndex(dstSlotPos)) and player.GetItemIndex(dstSlotPos) == srcItemVNum):
+				return True
 		elif item.IsDetachScroll(srcItemVNum):
 			if player.DETACH_METIN_OK == player.CanDetach(srcItemVNum, dstSlotPos):
 				return TRUE
