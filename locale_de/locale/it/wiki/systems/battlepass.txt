@@ -1,0 +1,34 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/battlepass.tga]
+[CENTER_ALIGN] Battlepass is a series of missions which are rewarded upon successful completion.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Normal Battlepass
+*2. Premium Battlepass
+*3. Event Battlepass
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Normal Battlepass
+
+[CENTER_ALIGN]Every player on Elendosfiles can make a Normal Battlepass. You can open this under F9.
+[CENTER_ALIGN]The normal Battlepass contains many tasks. (Monster Quests, Dungeon Quests etc)
+[CENTER_ALIGN]You get a reward for each task that is completed. And an effect is displayed.
+[CENTER_ALIGN]When you have completed all the missions you will receive a limited costume set.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=180; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Premium Battlepass
+
+[CENTER_ALIGN]The Premium Battlepass is different from the normal ones. 
+[CENTER_ALIGN]Here you get additional tasks that are a bit more demanding.
+[CENTER_ALIGN]The rewards of Premium Battlepass are better than normal ones.
+[CENTER_ALIGN]You can only purchase the Premium Battlepass in the item shop.
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Event Battlepass
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+[CENTER_ALIGN]The Event Battlepass only takes place at certain events 
+[CENTER_ALIGN]Here you will have to master many tasks, just like in the Normal and Premium.
+[CENTER_ALIGN]It will be announced on our Discord server when we start an event Battlepass.
+

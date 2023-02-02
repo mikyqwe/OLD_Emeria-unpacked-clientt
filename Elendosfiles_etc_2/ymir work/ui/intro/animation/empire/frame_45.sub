@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "animation04.dds"
+left 0
+top 5400
+right 1920
+bottom 6480

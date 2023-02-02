@@ -1,0 +1,32 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/container_system.tga]
+[CENTER_ALIGN]On Elendosfiles there are shinings and wings with different rarities.
+[CENTER_ALIGN]The rarer shinings or wings are, the more they are worth.
+[CENTER_ALIGN]Let's get right into the details:
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Items
+*2. Rarities
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=105; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Items
+
+[CENTER_ALIGN] You can drop the containers ingame from high end bosses or via itemshop.
+[CENTER_ALIGN] The item drops ingame are low but basically they are the same.
+[CENTER_ALIGN] You can trade the containers ingame.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Rarities
+
+[CENTER_ALIGN] There are 5 types of rarities:
+[CENTER_ALIGN] * Common (50%)
+[CENTER_ALIGN] * Uncommon (30%)
+[CENTER_ALIGN] * Rare (15%)
+[CENTER_ALIGN] * Very Rare (5%)
+[CENTER_ALIGN] * Legendary (unknown)
+[CENTER_ALIGN] 
+[CENTER_ALIGN] The legendary rarity will be currently only used in the wings containers.
+
+

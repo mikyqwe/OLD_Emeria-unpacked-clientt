@@ -1,0 +1,2 @@
+GENERAL WAIT wait.msa 65
+GENERAL NORMAL_ATTACK attack.msa 100

@@ -1,0 +1,57 @@
+TextureSet
+
+TextureCount 4
+Start Texture001
+    "d:\ymir work\terrainmaps\nelios_dt_2\1.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\nelios_dt_2\2.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\nelios_dt_2\3.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\nelios_dt_2\4.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture004
+
+
+
+
+
+
+
+
+
+
+
+
+
+

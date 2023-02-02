@@ -1,0 +1,27 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/multifarmblock.tga]
+[CENTER_ALIGN]The Multifarmblock on Elendosfiles is something very special. 
+[CENTER_ALIGN]Let me explain it to you briefly...
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. What is a Multifarmblock?
+*2. How do I apply it?.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. What is a Multifarmblock?
+
+The Multifarmblock prevents you from farming with more than 2 chars at the same time.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=200; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How do I apply it?.
+
+On the left side of your sidebar you have the point Multifarmblock.
+If you click on the point in your sidebar, you can set which accounts should drop something from you.
+Always remember. A maximum of 2 characters from 2 accounts can drop something at the same time.
+However, you can still log in with more than one account. After the 3rd account you will get
+a notification that it cannot drop anything anymore.
+
+

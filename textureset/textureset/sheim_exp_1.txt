@@ -1,0 +1,59 @@
+TextureSet
+
+TextureCount 4
+Start Texture001
+    "d:\ymir work\terrainmaps\sheim_exp_1\1.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\sheim_exp_1\2.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\sheim_exp_1\3.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\sheim_exp_1\4.dds"
+    4.000000
+    4.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

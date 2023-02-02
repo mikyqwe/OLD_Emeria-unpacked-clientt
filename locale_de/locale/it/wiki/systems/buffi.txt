@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/buffi.tga]
+[CENTER_ALIGN]Get your own Buff Shaman and summon her whenever you want. 
+[CENTER_ALIGN]Just click on the Buffi item and your assistant will appear to buff you.
+[CENTER_ALIGN]Let's get right into the details:
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Increase the tech levels of the skills
+*2. Give your Buffi costumes
+*3. Decorate your Buffi with shinings
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=110; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Increase the tech levels of the skills
+
+[CENTER_ALIGN] You can simply learn the tech levels of the Buffi skills.
+[CENTER_ALIGN] The required items are droppable ingame or in the itemshop.
+[CENTER_ALIGN] A buffi compared to a real buff shaman is a bit weaker but easier to handle.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Give your Buffi costumes
+
+[CENTER_ALIGN] You can give your Buffi costumes or armors to style her outfit.
+[CENTER_ALIGN] The bonuses or remaining time will not be gone after you undress it.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Decorate your Buffi with shinings
+
+[CENTER_ALIGN] Customize your Buffi with special shinings. The shining items can be only dressed to Buffi.
+[CENTER_ALIGN] * Drop Buffi shinings from monsters
+[CENTER_ALIGN] * Purchase Buffi shinings from the itemshop
+
+

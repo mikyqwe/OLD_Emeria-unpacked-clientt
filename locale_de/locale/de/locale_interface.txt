@@ -1,0 +1,834 @@
+PROFILE_SEARCH_CONTACT_TITLE	Suche nach einem Kontakt
+PROFILE_SEARCH_CONTACT_NAME	Name:
+PROFILE_CHANGE_SETTINGS	Ändere dein Profil
+PROFILE_NAME	Name
+PROFILE_LANGUAGE	Sprache
+PROFILE_LEVEL	Level
+PROFILE_GUILD	Gildenname
+PROFILE_STATUS	Status
+PROFILE_BIRTHDAY	Geburtstag
+PROFILE_LOCATION	Ort
+PROFILE_CHANGE_STATUS	Status ändern (Klick)
+ACCEPT	Bestätigen
+ATTACH_METIN_INFO	Willst du den Geiststein einsetzen?
+ATTACH_METIN_TITLE	Geiststein einsetzen
+CANCEL	Abbruch
+CHANGE_PASSWORD_CONFIRM	Neues Passwort wdh.
+CHANGE_PASSWORD_NEW	Neues Passwort
+CHANGE_PASSWORD_OLD	Altes Passwort
+CHANGE_PASSWORD_TITLE	Passwortänderung
+CHARACTER_ACTION	Aktionen
+CHARACTER_EMOTICON	Emotion
+CHARACTER_MAIN	Charakter
+CHARACTER_MUTUAL_ACTION	Interaktive Aktionen
+CHARACTER_NORMAL_ACTION	Normale Aktionen
+CHARACTER_QUEST	Missionen
+CHARACTER_SKILL	Fertigkeiten
+CLOSE	Schließen
+COSTUME_TITLE	Kostüme
+COSTUME_WINDOW_TITLE	Kostüme
+CREATE_ATT_GRADE	STR
+CREATE_CREATE	Erstellen
+CREATE_DEX_GRADE	DEX
+CREATE_HP	VIT
+CREATE_LAST_POINT	Punkte
+CREATE_MAN	Mann
+CREATE_NAME	Name
+CREATE_NEXT	Weiter
+CREATE_PREV	Zurück
+CREATE_SEX	Geschlecht
+CREATE_SHAPE	Aussehen
+CREATE_SP	INT
+CREATE_STAT_RESET	Zurück
+CREATE_WOMAN	Frau
+CUBE_INFO_TITLE	Veredelungshandbuch
+CUBE_REQUIRE_MATERIAL	Erforderliche Materialien
+CUBE_REQUIRE_MATERIAL_OR	oder
+CUBE_TITLE	Veredelungsfenster
+DO_REFINE	Veredeln
+DRAGONSOUL_ACTIVATE	Aktivieren
+DRAGONSOUL_PAGE_BUTTON_1	Roh
+DRAGONSOUL_PAGE_BUTTON_2	Schliff
+DRAGONSOUL_PAGE_BUTTON_3	Rar
+DRAGONSOUL_PAGE_BUTTON_4	Antik
+DRAGONSOUL_PAGE_BUTTON_5	Legendär
+DRAGONSOUL_REFINE_WINDOW_TITLE	Veredelungsfenster
+DRAGONSOUL_TAP_TITLE_1	Drachendiamant
+DRAGONSOUL_TAP_TITLE_2	Drachenrubin
+DRAGONSOUL_TAP_TITLE_3	Drachenjade
+DRAGONSOUL_TAP_TITLE_4	Drachensaphir
+DRAGONSOUL_TAP_TITLE_5	Drachengranat
+DRAGONSOUL_TAP_TITLE_6	Drachenonyx
+DRAGONSOUL_TITLE	Drachensteinalchemie
+EMPIRE_EXIT	Beenden
+EMPIRE_NEXT	Weiter
+EMPIRE_PREV	Zurück
+EMPIRE_SELECT	Wählen
+EXCHANGE_ACCEPT	Annehmen
+EXCHANGE_TITLE	Handeln
+GAMEOPTION_TITLE	Spieloptionen
+GAME_EXIT_OBSERVER	Zuschauermodus beenden
+GAME_HELP	Hilfe
+GAME_QUEST	Aufgaben
+GAME_SKILL_UP	Fertigkeit erhöhen
+GAME_STAT_UP	Status erhöhen
+GRADE	Klasse
+GRADE_SELECT	Klasse
+GUILD_BASENAME	Basisname
+GUILD_BOARD_ID	Name
+GUILD_BOARD_REFRESH	Aktualisieren (F5)
+GUILD_BOARD_TEXT	Nachricht
+GUILD_BUILDING_CATEGORY_TITLE	Baueinheiten
+GUILD_BUILDING_CHANGE	Wechseln
+GUILD_BUILDING_DIRECTION	Ausrichtung
+GUILD_BUILDING_GRADE	Rang
+GUILD_BUILDING_INFO	Gebäude- und Kosteninformationen
+GUILD_BUILDING_LIST_TITLE	Gebäudeliste
+GUILD_BUILDING_LOG	Stamm
+GUILD_BUILDING_NAME	Gebäudename
+GUILD_BUILDING_OPERATE	Bedienen
+GUILD_BUILDING_PLY	Sperrholz
+GUILD_BUILDING_POSITION	Lage
+GUILD_BUILDING_PREVIEW	Vorschau
+GUILD_BUILDING_PRICE	Preis
+GUILD_BUILDING_REFRESH	Aktualisieren (F5)
+GUILD_BUILDING_STONE	Fu.stein
+GUILD_BUILDING_TITLE	Gildenhausbau
+GUILD_CRYSTAL	Kristall
+GUILD_DEPOSIT	Zahlen
+GUILD_DROP_RESOURCE1	hier
+GUILD_DROP_RESOURCE2	Ressource fallen lassen
+GUILD_GEM	Edelstein
+GUILD_GRADE_CHANGE_GRADE_NAME	Neuer Rangname
+GUILD_GRADE_NUM	Nr.
+GUILD_GRADE_PERMISSION_DELETE	Entlassen
+GUILD_GRADE_PERMISSION_JOIN	Einladen
+GUILD_GRADE_PERMISSION_NOTICE	Schreiben
+GUILD_GRADE_PERMISSION_SKILL	Fertigkeiten
+GUILD_GRADE_RANK	Rang
+GUILD_GRADE_WRITE	Schreiben
+GUILD_INFO	Gildeninformationen
+GUILD_INFO_CUR_EXP	Erfahrung
+GUILD_INFO_DECALRE_WAR	Krieg erklären
+GUILD_INFO_ENEMY_GUILD	Feindliche Gilde
+GUILD_INFO_ENEMY_GUILD_EMPTY	Keine
+GUILD_INFO_LEVEL	Gilden-Level
+GUILD_INFO_MARK	Gildenzeichen
+GUILD_INFO_MASTER	Leader
+GUILD_INFO_MASTER_VALUE	Leader
+GUILD_INFO_MEMBER_AVG_LEVEL	Durchschnittliches Level
+GUILD_INFO_MEMBER_NUM	Mitgliederzahl
+GUILD_INFO_NAME	Gildenname
+GUILD_INFO_NAME_VALUE	Dies ist ein Gildenname
+GUILD_INFO_OFFER_EXP	Invest.
+GUILD_INFO_REST_EXP	Nötige Erfahrung
+GUILD_INFO_UPLOAD_MARK	Zeichen hochladen
+GUILD_INFO_UPLOAD_SYMBOL	Flagge hochladen
+GUILD_MARK	Gildenzeichen
+GUILD_MEMBER_JOB	Klasse
+GUILD_MEMBER_KNIGHT	Leader
+GUILD_MEMBER_LEVEL	Level
+GUILD_MEMBER_NAME	Name
+GUILD_MEMBER_RANK	Rang
+GUILD_MEMBER_SPECIFIC_GRAVITY	Invest.
+GUILD_METIN_STONE	Geiststein
+GUILD_MINENAL	Mineral
+GUILD_MONEY	Yang
+GUILD_NAME	Gilde
+GUILD_RESOURCE_INFO	Ressourceninformationen
+GUILD_SKILL_ACTIVE	Aktiv
+GUILD_SKIlL_HEAL_GSP	Aufladen
+GUILD_SKILL_PASSIVE	Passiv
+GUILD_SKILL_POWER	Energie
+GUILD_SKILL_STATE	Skills of the Guild
+GUILD_SYMBOL	Gildenflagge
+GUILD_WAR_ACCEPT	Gildenkriegserklärung annehmen
+GUILD_WAR_BATTLE_TYPE	Kampfart
+GUILD_WAR_CTF	Flagge
+GUILD_WAR_DECLARE	Gildenkrieg erklären
+GUILD_WAR_ENEMY	Gegner
+GUILD_WAR_NORMAL	Feld
+GUILD_WAR_WARP	Arena
+GUILD_WATER	Wasser
+GUILD_WATER_STONE	Wasserstein
+GUILD_WITHDRAW	Nehmen
+HELP_ATTACK_KEY	Angreifen: linke Maustaste oder Leertaste
+HELP_CHANGE_PK_MODE	Angriffsmodus wechseln: Belegung der linken Maustaste ändern
+HELP_CHARACTER_BUTTON1	(Charakterfenster, Inventarfenster,
+HELP_CHARACTER_BUTTON2	Freundesliste und Optionen)
+HELP_CONTROL_CAMERA_BY_MIDDLEBUTTON	Kamerasicht: mittlere oder rechte Maustaste
+HELP_CONTROL_CAMERA_BY_RIGHTBUTTON	Kamerasicht: rechte oder mittlere Maustaste
+HELP_EXP	Erfahrung
+HELP_FURY	Ingame Item-Shop
+HELP_GUILD_WINDOW	Gildenfenster öffnen: Alt + G
+HELP_HELP	Hilfe anzeigen: H
+HELP_HP	Trefferpunkte (TP)
+HELP_MESSENGER_WINDOW	Freundesliste öffnen: Alt + M
+HELP_MOUSE_LEFT	Funktion der linken Maustaste
+HELP_MOUSE_RIGHT	Funktion der rechten Maustaste
+HELP_MOVE_KEY	Steuerung: W, A, S, D oder Pfeiltasten
+HELP_OPEN_CHARACTER	Charakterfenster öffnen: C
+HELP_OPEN_CHAT	Chat-Fenster öffnen: Enter
+HELP_OPEN_INVENTORY	Inventarfenster öffnen: I
+HELP_OPEN_LOG	Chat-Protokoll (Log) öffnen: L
+HELP_OPEN_MINIMAP	Minikarte öffnen: Shift + M
+HELP_OPEN_QUEST	Auftragsfenster öffnen: N
+HELP_OPEN_SKILL	Fertigkeitenfenster öffnen: V
+HELP_OPEN_WHISPER	Flüsterfenster öffnen: Shift + Enter
+HELP_OPEN_ZONEMAP	Übersichtskarte öffnen: M
+HELP_PICK_ITEM	Gegenstände aufheben: ^ oder Y oder linke Maustaste
+HELP_QUICKSLOT	Schnellzugriffsfelder
+HELP_SCREEN_CAPTURE	Screenshot speichern: Druck bzw. Print (Speicherort ist der Ordner "Metin2\screenshot")
+HELP_SHOW_ALL_NAME	Namen anzeigen: Alt
+HELP_SP	Manapunkte (MP)
+HELP_SYSTEM_BUTTON	Systemtasten
+INVENTORY_PAGE_BUTTON_TOOLTIP_1	1. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_2	2. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_3	3. Inventar
+INVENTORY_PAGE_BUTTON_TOOLTIP_4	4. Inventar
+INVENTORY_TITLE	Inventar
+ITEM_MALL	Item-Shop
+LOAD_ERROR	Die Datendatei ist beschädigt. Bitte Client neu installieren. Drücke jetzt die Taste ESC.
+LOGIN_CONNECT	Verbinden
+LOGIN_FAILURE_TIMEOUT	Fehler beim Verbinden mit dem Server.
+LOGIN_CONNECTING	Performance System wird in den Cache geladen...
+LOGIN_DEFAULT_SERVERADDR	Servername, Channel 1
+LOGIN_EXIT	Beenden
+LOGIN_CONNECT_FAILURE	test
+LOGIN_REGION_TITLE	Ort für die Rechnungsstellung wählen
+LOGIN_SELECT_BUTTON	Wählen
+LOGIN_SELECT_EXIT	Beenden
+LOGIN_SELECT_OK	OK
+LOGIN_SELECT_TITLE	Server wählen
+MALL_PASSWORD_TITLE	Passwort
+MALL_TITLE	Itemshop-Lager
+MARKET_TITLE	Laden
+MARKLIST_REFRESH	Aktualisieren
+MARKLIST_TITLE	Gildenzeichen registrieren
+MESSAGE	Dies ist eine Nachricht
+MESSENGER_ADD_FRIEND	Freund hinzufügen
+MESSENGER_DELETE_FRIEND	Freund löschen
+MESSENGER_MOBILE	SMS senden
+MESSENGER_OPEN_GUILD	Gildenfenster öffnen
+MESSENGER_TITLE	Freunde
+MESSENGER_USE_GUILD_MOVE_SKILL	Verwende die Gildenbewegungsfertigkeit
+MESSENGER_WHISPER	Flüstern
+MINIMIZE	Minimieren
+MOUSEBUTTON_ATTACK	Angreifen
+MOUSEBUTTON_AUTO_ATTACK	Automatisch angreifen
+MOUSEBUTTON_CAMERA	Kamera
+MOUSEBUTTON_SKILL	Fertigkeiten
+MUSICLIST_TITLE	Musikauswahl
+NO	Nein
+OK	OK
+OPTION_ALWAYS_SHOW_NAME	Name
+OPTION_ALWAYS_SHOW_NAME_OFF	begrenzt
+OPTION_ALWAYS_SHOW_NAME_ON	immer
+OPTION_BLOCK	Abblocken
+OPTION_BLOCK_EXCHANGE	Handeln
+OPTION_BLOCK_FRIEND	Freunde
+OPTION_BLOCK_GUILD	Gilde
+OPTION_BLOCK_PARTY	Gruppe
+OPTION_BLOCK_PARTY_REQUEST	Anfrage
+OPTION_BLOCK_WHISPER	Flüstern
+OPTION_CAMERA_DISTANCE	Kamera
+OPTION_CAMERA_DISTANCE_LONG	Fern
+OPTION_CAMERA_DISTANCE_SHORT	Nah
+OPTION_DELETE_MOBILE_BUTTON	Handynummer löschen
+OPTION_EFFECT	Trefferanzeige
+OPTION_FOG	Nebel
+OPTION_FOG_DENSE	Viel
+OPTION_FOG_LIGHT	Wenig
+OPTION_FOG_MIDDLE	Mittel
+OPTION_INPUT_MOBILE_BUTTON	Handynummer eingeben
+OPTION_MOBILE	Handy
+OPTION_MUSIC	Musik
+OPTION_MUSIC_CHANGE	Wechseln
+OPTION_MUSIC_DEFAULT_THEMA	Standardtitel von Metin2
+OPTION_NAME_COLOR	Farbe Name
+OPTION_NAME_COLOR_EMPIRE	Reichsfarbe
+OPTION_NAME_COLOR_NORMAL	Normal
+OPTION_PVPMODE	PvP-Modus
+OPTION_PVPMODE_FREE	Frei
+OPTION_PVPMODE_FREE_TOOLTIP	Du darfst alle Spieler angreifen.
+OPTION_PVPMODE_GUILD	Gilde
+OPTION_PVPMODE_GUILD_TOOLTIP	Du darfst alle Spieler mit Ausnahme von Gildenmitgliedern angreifen.
+OPTION_PVPMODE_PEACE	Frieden
+OPTION_PVPMODE_PEACE_TOOLTIP	Du darfst keine Spieler deines Reiches angreifen.
+OPTION_PVPMODE_REVENGE	Feindlich
+OPTION_PVPMODE_REVENGE_TOOLTIP	Du darfst nur Spieler mit einer anderen Gesinnung angreifen.
+OPTION_SALESTEXT	Ladenname
+OPTION_SALESTEXT_VIEW_OFF	ausblenden
+OPTION_SALESTEXT_VIEW_ON	einblenden
+OPTION_SOUND	Effekte
+OPTION_TARGET_BOARD	Zielmenü
+OPTION_TARGET_BOARD_NO_VIEW	Schließen
+OPTION_TARGET_BOARD_VIEW	Anzeigen
+OPTION_TILING	Grafikspeicher
+OPTION_TILING_APPLY	Anwenden
+OPTION_TILING_CPU	CPU
+OPTION_TILING_GPU	GPU
+OPTION_TITLE	Optionen
+OPTION_VIEW_CHAT	Chatzeile
+OPTION_VIEW_CHAT_OFF	ausblenden
+OPTION_VIEW_CHAT_ON	einblenden
+PARTY_MEMBER_INFO_NAME	Name des Gruppenmitglieds
+PASSWORD_DESC_1	Gib dein Passwort ein,
+PASSWORD_DESC_2	um das Lager zu öffnen.
+PASSWORD_DESC_3	Passwort schon geändert?
+PASSWORD_DESC_4	Wenn nicht, ist dein Passwort: "000000".
+PASSWORD_DESC_5	Ändere dein Passwort im Lager.
+PASSWORD_TITLE	Speicher-PW
+PICK_MONEY_TITLE	Teilen
+PRIVATE_SHOP_CLOSE_BUTTON	Laden schließen
+PRIVATE_SHOP_NAME	Name des Ladens
+PRIVATE_SHOP_TITLE	Privaten Laden einrichten
+REFINE_COST	Verbesserungskosten: 0 Yang
+REFINE_INFO	Wahrscheinlichkeit auf erfolgreiche Verbesserung: 100%
+REFINE_MONEY	Veredelungsgebühr
+REFINE_SELECT	Veredelung
+REFINE_TTILE	Verbesserungen
+REPORT_VIOLENT_WHISPER	Petzen
+RESTART_HERE	Hier neu starten
+RESTART_TOWN	In der Stadt neu starten
+SAFE_CHANGE_PASSWORD	Passwort ändern
+SAFE_TITLE	Lager
+SELECT_ATT_GRADE	STR
+SELECT_CREATE	Erstellen
+SELECT_DELETE	Löschen
+SELECT_DEX_GRADE	DEX
+SELECT_EMPIRE_NAME	Name des Reiches
+SELECT_EXIT	Beenden
+SELECT_HP	VIT
+SELECT_LEVEL	Level
+SELECT_METIN_STONE_TITLE	Geiststein wählen
+SELECT_NAME	Name
+SELECT_NO_GUILD	Keine Gilde
+SELECT_PLAYTIME	Spielzeit (Min.)
+SELECT_SELECT	Start
+SELECT_SP	INT
+SELECT_TITLE	Titel auswählen
+SHOP_BUY	Kaufen
+SHOP_SELL	Verkaufen
+SHOP_TITLE	Laden
+SKILL_SUPPORT_TITLE	Standardfertigkeiten
+STEP	Reinheitsgrad
+STEP_SELECT	Reinheitsgrad
+STRENGTH	Verstärken
+STRENGTH_SELECT	Stufe
+SYSTEMOPTION_TITLE	Systemoptionen
+SYSTEM_CHANGE	Charakter wechseln
+SYSTEM_EXIT	Spiel beenden
+SYSTEM_HELP	Hilfe
+SYSTEM_LOGOUT	Ausloggen
+SYSTEM_MALL	Item-Shop
+SYSTEM_OPTION	Systemoptionen
+TASKBAR_CHARACTER	Charakter [C/V/B/N]
+TASKBAR_CHAT	Chat-Fenster [Enter]
+TASKBAR_DISABLE	Deaktiviert
+TASKBAR_DRAGON_SOUL	Drachensteinalchemie
+TASKBAR_EXPAND	Fenster vergrößern
+TASKBAR_INVENTORY	Inventar [I]
+TASKBAR_MESSENGER	Freunde [Alt+M]
+TASKBAR_NEXT_QUICKSLOT	Nächstes Schnellzugriffsfeld [Umschalt+Zahl, Alt]
+TASKBAR_PREV_QUICKSLOT	Vorheriges Schnellzugriffsfeld [Umschalt+Zahl]
+TASKBAR_SYSTEM	Optionen[ESC]
+WHISPER_BAN	Abblocken
+WHISPER_NAME	Zuflüstern
+WHISPER_REPORT	report
+WHISPER_SEND	Senden
+YES	Ja
+ZONE_MAP	Übersichtskarte
+FAST_EQUIP	Equip Wechsler
+SASH_ABSORB	Boni Absorbieren
+SASH_COMBINE	Kombinieren
+SASH_MAIN	Schulterband 1
+SASH_RESULT	Ergebnis
+SASH_SERVE	Schulterband 2
+GIFT_WINDOW_NAME	Geschenke
+GIFT_PREV_PAGE	Vorherige Seite
+GIFT_NEXT_PAGE	Nächste Seite
+GIFT_COUNT	Anzahl
+GIFT_FROM	Von
+GIFT_REASON	Grund
+GIFT_GET	Abholen
+GIFT_GET_ALL	Alle Items
+GIFT_GET_QUEST	Bist du sicher das du %s haben möchtest?
+GIFT_GET_QUEST_ALL	Bist du sicher das du alle Items haben möchtest?
+GIFT_MONEY_DESC	Du hast das Yang deines Offline Shops erhalten.
+SHOP_NAME	Ladenname
+SHOP_TIMEOUT	Laufzeit des Ladens:
+SHOP_CREATE	Laden eröffnen
+SHOP_CREATE_PRICE	Kosten:
+SHOP_CREATE_HOURS	Stunden
+SHOP_CREATE_HOUR	Stunde
+SHOP_CREATE_DAY	Tag
+SHOP_CREATE_DAYS	Tage
+SHOP_CREATE_NORMAL	Normaler Laden
+SHOP_NAME_EMPTY	Bitte gebe einen Ladennamen ein
+SHOP_TIMEOUT_EMPTY	Bitte wähle eine Laufzeit für deinen Laden
+SHOP_WINDOW_NAME	Deine Läden
+SHOP_WINDOW_SHOP_NAME	Laden
+SHOP_WINDOW_CREATE	Laden eröffnen
+SHOP_GET_YANG	Yang abheben
+SHOP_CHANGE_NAME	Namen ändern
+SHOP_ENTER_NEW_NAME	Gebe bitte einen neuen Namen ein
+SHOP_CLOSE	Laden schließen
+SHOP_CLOSE_QUEST	Bist du dir sicher das du den Laden %s schließen willst?
+SHOP_MANAGE	Verwalten
+SHOP_OPEN	Laden eröffnen
+SHOP_EDIT	Bearbeiten
+SHOP_REMOVE_ITEM	Entfernen
+SHOP_CHANGE_PRICE	Preis ändern
+SHOP_EDIT_SHOP_WINDOW	Bearbeiten
+SHOP_EDIT_SHOP_CANCEL	Schließen
+SHOP_SELECT	Auswahl
+SHOP_REMOVE_ITEM_QUEST	Bist du sicher das du dieses Item entfernen willst?
+SHOP_NOT_EARNED_YANG	Dein Laden hat bis jetzt noch kein Yang verdient! HAHA
+SHOP_YANG_QUEST	Möchtest du %s von Laden %s kaufen?
+SHOP_INFORMATION	Ladenname:
+SHOP_EARNED_YANG	Verdientes Yang:
+SHOP_SOLD_ITEMS	Verkaufte Items:
+SHOP_REST_ITEMS	Restliche Items:
+SHOP_TIME_TO_CLOSE	Zeit:
+SHOP_SELECT_TIME	Auswählen
+OPTION_SALESTEXT_RANGE	Shop name range
+SHINING_WINDOW_TITLE	Shinings
+CHANGE_COSTUME	Seite wechseln
+CHANGE_SHINING	Seite wechseln
+DEKO_MENU	Dekoration
+DESTROY	Zerstören
+SHOP_SEARCH_TITLE	Shop Suche
+SHOP_SEARCH_CLEAR	Löschen
+SHOP_SEARCH_BUTTON	Suchen:
+SHOP_SEARCH_PRICE	Preis:
+SHOP_SEARCH_ENTER_ITEM_NAME	Gebe Item namen ein
+SHOP_SEARCH_EMPTY_ITEM_NAME	Der Item name kann nicht gefunden werden.
+GUILD_DRAGONLAIR_RANKING	Rangliste
+GUILD_DRAGONLAIR_RANKING_COUNT	Platz
+GUILD_DRAGONLAIR_RANKING_MEMBER	Mitglieder
+GUILD_DRAGONLAIR_RANKING_NAME	Gilde
+GUILD_DRAGONLAIR_RANKING_TIME	Zeit
+DUNGEON_INFO	Dungeon Informationen
+DUNGEON_INFO_TYPE	Type:
+DUNGEON_INFO_ORGANIZATION	Organisation:
+DUNGEON_INFO_LEVEL_LIMIT	Level:
+DUNGEON_INFO_PARTY_MEMBERS	Gruppen Mitglieder:
+DUNGEON_INFO_COOLDOWN	Abklingzeit:
+DUNGEON_INFO_DURATION	Dauer:
+DUNGEON_INFO_ENTRANCE	Eintritt:
+DUNGEON_INFO_STRENGTH	Stärke:
+DUNGEON_INFO_RESISTANCE	Widerstand:
+DUNGEON_INFO_TOTAL_FINISHED	Abgeschlossen:
+DUNGEON_INFO_FASTEST_TIME	Schnellste Zeit:
+DUNGEON_INFO_HIGHEST_DAMAGE	Höchster Schaden:
+DUNGEON_INFO_TELEPORT	Teleport
+DUNGEON_INFO_CLOSE	Schließen
+DUNGEON_INFO_PERSONAL_STATS	Persönliche Statistiken
+DUNGEON_INFO_DUNGEON	Dungeon
+DUNGEON_RANKING	Ranking
+DUNGEON_RANKING_POSITION	Position
+DUNGEON_RANKING_NAME	Name
+DUNGEON_RANKING_LEVEL	Level
+DUNGEON_RANKING_POINTS	Points
+DUNGEON_RANKING_TYPE1	Vollständig
+DUNGEON_RANKING_TYPE2	Zeit
+DUNGEON_RANKING_TYPE3	Schaden
+DUNGEON_RANKING_POINT_TYPE1	Beenden
+DUNGEON_RANKING_POINT_TYPE2	Min. Zeit
+DUNGEON_RANKING_POINT_TYPE3	Schaden
+CUBE_RENEWAL_TITLE	Veredelung
+CUBE_RENEWAL_BELT_IMPROVE	Chancen erhöhen
+OPTION_FOV	Feldsicht
+NEW_EXCHANGE_YOU	Du
+MINI_GAME_RUMI_DISCARD_TEXT	Sicherer Modus
+MINI_GAME_RUMI_EXIT	Ende
+MINI_GAME_RUMI_LBUTTON_DESC	Zum Hinzufügen einer Karte mit der linken Maustaste klicken
+MINI_GAME_RUMI_RBUTTON_DESC	Rechtsklick zum Ablegen der Karte
+MINI_GAME_RUMI_SCORE	Punktestand
+MINI_GAME_RUMI_START_TEXT	Starten
+MINI_GAME_RUMI_TITLE	Elendos Okey Card Spiel
+BANNER_FISH_BUTTON	Fischer Jingsaw
+MINIGAME_FISH_EVENT_USE_COUNT	Anzahl
+MINI_GAME_FISH_HELP_TEXT	Hilfe
+MINI_GAME_FISH_START_TEXT	Starten
+MINI_GAME_FISH_TITLE	Fischer Jingsaw
+LOTTO_WINDOW_TITLE	Lotto-Fenster
+LOTTO_NUMBERS	Lottozahlen #%d
+LOTTO_NEXT_NUMBERS	Nächste Ziehung: 
+LOTTO_NEXT_NUMBERS_REFRESH_BTN	Aktualisieren
+LOTTO_TICKET_NUMBER	Lottoschein #%d
+LOTTO_TICKET_BUY_DATE	Kaufdatum: %s
+LOTTO_TICKET_FOR_DRAW	Für Lottozahlen:
+LOTTO_TICKET_STATE_TITLE	Status:
+LOTTO_TICKET_STATE_0	Wartet..
+LOTTO_TICKET_STATE_1_1	JACKPOT
+LOTTO_TICKET_STATE_1_2	%d richtige Zahlen
+LOTTO_TICKET_STATE_2	Abgeholt
+LOTTO_TICKET_WIN_AMOUNT_TITLE	Gewinn:
+LOTTO_TICKET_WIN_0	---------
+LOTTO_TICKET_WIN_1	Leider nichts gewonnen
+LOTTO_TICKET_DELETE_TICKET	Löschen
+LOTTO_TICKET_REWARD_RECIVED_TICKET	Gewinn abholen
+LOTTO_WINNING_LIST_BTN	Jackpot Gewinner
+LOTTO_PAYOUT_BTN	Auszahlen
+LOTTO_CREATE_NEW_TICKET	Lottoschein ausfüllen
+LOTTO_NEW_TICKET_WINDOW_TITLE	Lottoschein %d ausfüllen
+LOTTO_NEW_TICKET_INFOTEXT	Info: Du musst 4 Zahlen ankreuzen.
+LOTTO_NEW_TICKET_COST	Kosten: 
+LOTTO_NEW_TICKET_CLEAR_NUMBERS_BUTTON	Zahlen löschen
+LOTTO_NEW_TICKET_BUY_BUTTON	Lottoschein kaufen
+LOTTO_INFO_WINDOW_TITLE	Lotto-Info
+LOTTO_INFO_BIG_TEXT	Um den Jackpot zu gewinnen musst du 4 richtige Zahlen tippen. Bei 1, 2 oder 3 richtigen Tipps bekommst du anteilmäßig \nYang aus dem Jackpot. Die Kosten eines Lottoscheines gehen zu 80% in den Jackpot. \nWurde der Jackpot gewonnen dann wird der Jackpot wieder zurück gesetzt und startet bei 250.000.000 Yang. \n \n Jackpot Gewinnchance -  1 zu 27.405 
+LOTTO_LAST_NUM_TITLE	Die letzten %d Lottonummern
+LOTTO_RANKLIST_TITLE	Lotto-Rankliste
+LOTTO_RANKLIST_TITLEROW_PNAME	Spieler-Name
+LOTTO_RANKLIST_TITLEROW_LID	Lotto-ID
+LOTTO_RANKLIST_TITLEROW_YANG	Yang
+LOTTO_RANKLIST_TITLEROW_DATE	Datum
+LOTTO_RANKLIST_TITLEROW_LEVEL	Level
+LOTTO_RANKLIST_TITLEROW_EMPIRE	Reich
+LOTTO_RANKLIST_BUTTON_JACKPOT	Gewonnene Jackpots
+LOTTO_RANKLIST_BUTTON_WIN	Gesamter Gewinn
+LOTTO_CHAT_INFO_EMPTY_YANG_TRESOR	Dein Yangspeicher ist leer. Du kannst gerade nichts abheben.
+LOTTO_CHAT_INFO_NOT_ENOUGHT_YANG	Du hast nicht genug Yang
+LOTTO_CHAT_INFO_SEL_4_NUM	Du musst 4 Zahlen auswählen.
+LOTTO_Elendos_1	Du hast diese Zahl ausgewählt.
+LOTTO_Elendos_2	Diese Zahl wurde von der Lottoziehung gezogen.
+LOTTO_Elendos_3	Deine Zahl stimmt mit der der Lottoziehung überein.
+LOTTO_Elendos_4	Gewinn-Berechnungen
+LOTTO_Elendos_5	Markierungen
+LOTTO_Elendos_6	Allgemeine Informationen
+LOTTO_Elendos_Prozentsatz_1	Prozentsatz pro richtige Zahl:
+LOTTO_Elendos_Prozentsatz_2	1 richtige Zahl = 0,5% vom Jackpot
+LOTTO_Elendos_Prozentsatz_3	2 richtige Zahlen = 2% vom Jackpot
+LOTTO_Elendos_Prozentsatz_4	3 richtige Zahlen = 10% vom Jackpot
+LOTTO_Elendos_Prozentsatz_5	4 richtige Zahlen = Ganzer Jackpot
+LOTTO_Elendos_Prozentsatz_6	Beispiel bei einem Jackpot von 2.000.000.000 Yang:
+LOTTO_Elendos_Prozentsatz_7	Jackpot * 0,12 ( 3 Richtige Zahlen ) = 240.000.000 Yang
+LOTTO_Elendos_YANG	Yang-Speicher:
+LOTTO_Elendos_GESAMMT_WIN	Gesamter Gewinn:
+LOTTO_Elendos_JACKPOT_WIN	Gewonnene Jackpots
+LOTTO_Elendos_GESAMMT2_WIN	Gesamter Gewinn
+TELEPORT_PANEL_TITLE	Teleportations-Fenster
+TELEPORT_PANEL_TAB_NAME_1	Allgemein
+TELEPORT_PANEL_TAB_NAME_2	Neutral
+TELEPORT_PANEL_TAB_NAME_3	Dungeons
+TELEPORT_PANEL_TAB_NAME_4	Oth. Dungeons
+TELEPORT_PANEL_TAB_NAME_5	Lev. Maps
+TELEPORT_PANEL_TAB_NAME_6	Welten Boss
+TELEPORT_PANEL_INFO_TITLE	Beschreibung
+TELEPORT_PANEL_INFO_BOSS	Bossmonster : %s
+TELEPORT_PANEL_INFO_BOSS_EMPTY	Kein Bossmonster auf dieser Map
+TELEPORT_PANEL_INFO_MINLV	Min. Level :
+TELEPORT_PANEL_INFO_MINLV_EMPTY	Min. Level : Kein Mindestlevel
+TELEPORT_PANEL_INFO_MAXLV	Max. Level :
+TELEPORT_PANEL_INFO_MAXLV_EMPTY	Min. Level : Kein Maximallevel
+TELEPORT_PANEL_INFO_COST	Kosten :
+TELEPORT_PANEL_INFO_COST_EMPTY	Kosten : Keine Kosten
+TELEPORT_PANEL_INFO_ITEM_COST_DESC	Benötigtes Item
+TELEPORT_PANEL_INFO_ITEM_COST_TEXT	%dx %s
+TELEPORT_PANEL_INFO_ITEM_COST_TEXT_EMPTY	Kein Item wird benötigt
+TELEPORT_MAP_MAP_1	Map 1 - Yongan | Joan | Pyungmoo
+TELEPORT_MAP_MAP_2	Map 2 - Jayang | Bokjung | Bakra
+TELEPORT_MAP_GUILDZONE	Gildenzone - Jungrang | Waryong | Imha
+TELEPORT_MAP_SEUNGRYONG	Tal von Seungryong
+TELEPORT_MAP_YONGBI	Yongbi-Wüste
+TELEPORT_MAP_SOHAN	Berg Sohan
+TELEPORT_MAP_DOYYUMHWAN	Doyyumhwan
+TELEPORT_MAP_SNAKEFIELD	Schlangenfeld
+TELEPORT_MAP_GHOSTWOOD	Geisterwald
+TELEPORT_MAP_REDWOOD	Roter Wald
+TELEPORT_MAP_LAND_OF_GIANTS	Land der Riesen
+TELEPORT_MAP_SPIDERDUNGEON_01	Spinnendungeon
+TELEPORT_MAP_SPIDERDUNGEON_02	Spinnendungeon 2
+TELEPORT_MAP_DEAMONTOWER	Dämonenturm
+TELEPORT_MAP_DEVILS_CATACOMB	Teufelskatakomben
+TELEPORT_MAP_SKIPIA_DUNGEON	Grotte der Verbannung
+TELEPORT_MAP_BLAZING_PURGATORY	Rotdrachenfestung
+TELEPORT_MAP_NEMERES_WARTE	Nemeres Warte
+TELEPORT_MAP_MAP_1_DESC	Achja, der Ort bei dem die Nostalgische Musik läuft. Hier ist jedenfalls das Zentrum des Handels. Wenn du etwas kaufen möchtest wirst du hier wohl immer fündig! Aber sonst ist hier nicht viel zu finden wenn du schon zu den stärkeren Kämpfern gehörst.
+TELEPORT_MAP_MAP_2_DESC	Ein wichtiges Gebiet wenn du noch Jung bist. Hier findest du halbstarke Monster die dir bis Level 30 gute Erfahrung bieten. Ausserdem grenzt hier eines der Affendungeons an.
+TELEPORT_MAP_GUILDZONE_DESC	Ein Gebiet welches für Gilden wichtig ist. Hier wird gebaut! Aber nicht nur das, auch Monster sind hier zu finden. Sie sind Aggressiv und greifen von alleine an. Junge Spieler können es hier Schwer haben, mann kann hier aber gute Gegenstände erbeuten.
+TELEPORT_MAP_SEUNGRYONG_DESC	Das Orktal ist der Perfekte Ort um von Level 20 bis etwa Level 50 zu Leveln. Ausserdem hat das Orktal eines der Beliebtesten Metin Farm Locations. Der Boss auf dieser Map ist der Oberork. Dieser ist oft überfarmt, also sei immer Wachsam nach dem Gelben Kerl!
+TELEPORT_MAP_YONGBI_DESC	Heiße Lüfte, Sand in den Sandalen. Magst du nicht? Dann solltest du diesen Ort besser meiden. Aber hier gibt es viel zu entdecken. Zwei Affendungeons grenzen hier an, die Spinnendungeon und das Schlangenfeld sind ebenfalls von hier zu erreichen.
+TELEPORT_MAP_SOHAN_DESC	Hier oben ist es ziemlich kalt also Pack dich gut ein! Hier findest du selten die Legänderen Neunschwänze. Geb dich in acht vor ihnen! Es ist ausserdem ein guter Bereich um Metinsteine zu bezwingen. Überlebst du die Kälte, bist du ein taffer Kämpfer.
+TELEPORT_MAP_DOYYUMHWAN_DESC	Vulkane und Magma. Hier wirds richtig Heiß! Monster die gefühlt nicht von dieser Welt stammen sind hier zu finden. Hier solltest du nicht hingehen wenn du nicht stark genug bist!
+TELEPORT_MAP_SNAKEFIELD_DESC	Schlangen und Giganten? Pff... Wie konnte sich das nur entwickeln. Mach dich auf in ein gefährliches Gebiet und versuche hier zu Überleben. Meide diesen Ort wenn du nicht wirklich weißt was du tust, sonst bist du schnell erledigt.
+TELEPORT_MAP_GHOSTWOOD_DESC	Nachforschungen haben ergeben, dass der Geisterwald ein Gebiet ist, das von Geisterbaumstumpf und Dryade dominiert wird. Wenn du sie vernichtest, kannst du vielleicht verhindern, dass sich die Geisterbäume weiter ausbreiten.
+TELEPORT_MAP_REDWOOD_DESC	Der Rote Wald ist verflucht! Hier findest du eine menge starker Gegner. Sei vorsichtig!
+TELEPORT_MAP_LAND_OF_GIANTS_DESC	Wenn du ein Problem mit Größenordnungen hast, geh hier nicht hin! Andernfalls wirst du hier Gegenstände erbeuten können die dir zu Ruhm und Reichtum verhelfen könnten. Nur geh bitte gut Ausgerüstet dort hin. Das Land braucht dich noch länger!
+TELEPORT_BUTTON_RED_EMPIRE	Rotes Reich
+TELEPORT_BUTTON_YELLOW_EMPIRE	Gelbes Reich
+TELEPORT_BUTTON_BLUE_EMPIRE	Blaues Reich
+TELEPORT_BUTTON_START	Anfang
+TELEPORT_BUTTON_MIDDLE	Mitte
+TELEPORT_BUTTON_END	Ende
+TELEPORT_BUTTON_ENTRY	Eingang
+TELEPORT_BUTTON_SKIPIA_1	Erste Ebene
+TELEPORT_BUTTON_SKIPIA_2	Zweite Ebene
+TELEPORT_BUTTON_SKIPIA_BOSS	Bossraum
+PET_ATTR_CHANGE_ITEM_TEXT	Pet verzaubern
+PET_ATTR_CHANGE_TITLE	Pettyp ändern
+PET_ATTR_CONFIRMATION	Ändern
+PET_ATTR_DETERMINE_TITLE	Neuer Pettyp
+PET_ATTR_OK	Schließen
+PET_CHANGE_TEXT	Pet
+PET_FEED_TITLE	Pet Fenster
+PET_FEED_ITEM_TITLE	Füttern EXP
+PET_FFED_BUTTON_TEXT	Füttern
+PET_HATCHING_BUTTON	Ausbrüten
+PET_HATCHING_NIK	Name des Pets
+PET_HATCHING_WINDOW_TITLE	Brutkasten
+PET_INFORMATION_ABILITIES	Boni
+PET_INFORMATION_AGE	Alter
+PET_INFORMATION_COSTUME_BONUS	Kostümbonus
+PET_INFORMATION_DEFENCE	Stark gegen Monster
+PET_INFORMATION_EVOL_BUTTON	Entwicklung
+PET_INFORMATION_EXP	Erfahrung
+PET_INFORMATION_EXP_BUTTON	Item EXP
+PET_INFORMATION_HP	TP
+PET_INFORMATION_LEVEL	Level
+PET_INFORMATION_LIFE	Laufzeit
+PET_INFORMATION_LIFETIME_BUTTON	Füttern
+PET_INFORMATION_LIFE_TIME	Stunden
+PET_INFORMATION_LIFE_OLD	Tage
+PET_INFORMATION_SKILL	Fertigkeiten
+PET_INFORMATION_SP	MP
+PET_INFORMATION_ATT	Angriffswert
+PET_INFORMATION_TITLE	Pet
+PET_NAME_CHANGE_BUTTON	Ändern
+PET_NAME_CHANGE_WINDOW_TITLE	Name ändern
+PET_TOOLTIP_TIME	Verbl. Zeit: %dT %dStd %dMin
+PET_TOOLTIP_RESTORE_HP	Wiederherstellende TP: 
+PET_TOOLTIP_CHANCE_RESTORE_HP	Chance TP wiederherzustellen: 
+PET_TOOLTIP_IMMORTALITY_TIME	Dauer Unbesigbarkeit: 
+PET_TOOLTIP_CHANCE_IMMORTALITY	Chance auf Unbesiegbarkeit: 
+PET_TOOLTIP_CHANCE_PANACEA	Chance auf Heilung: 
+PET_TOOLTIP_CHANCE	Chance: 
+ACCE_RESULT	Ergebnis
+INVENTORY_SORT	Inventar sortieren
+SPECIAL_INVENTORY_SKILLBOOK_TITLE	Bücher
+SPECIAL_INVENTORY_STONE_TITLE	Steine
+SPECIAL_INVENTORY_MATERIAL_TITLE	Upp-Items
+EXTENDET_BATTLE_PASS_TITLE	Battle-Pass
+EXTENDET_BATTLE_PASS_RANK_ICON_RANK	Rank-Plazierung
+EXTENDET_BATTLE_PASS_RANK_ICON_NAME	Spielername
+EXTENDET_BATTLE_PASS_RANK_ICON_TIME	Gebrauchte Zeit seit anfang der ersten Mission
+EXTENDET_BATTLE_PASS_NO_PLANNED_NORMAL_BATTLEPASS	Es zur Zeit kein Battle-Pass geplant!
+EXTENDET_BATTLE_PASS_PLANNED_NEXT_NORMAL_BATTLEPASS	Es ist ein Battle-Pass geplant!
+EXTENDET_BATTLE_PASS_TIME_TO_NEXT_NORMAL_BATTLEPASS	Zeit bis zum Battle-Pass: %s
+EXTENDET_BATTLE_PASS_NO_PLANNED_PREMIUM_BATTLEPASS	Es zur Zeit kein Premium Battle-Pass geplant!
+EXTENDET_BATTLE_PASS_PLANNED_NEXT_PREMIUM_BATTLEPASS	Es ist ein Premium Battle-Pass geplant!
+EXTENDET_BATTLE_PASS_TIME_TO_NEXT_PREMIUM_BATTLEPASS	Zeit bis zum Premium Battle-Pass: %s
+EXTENDET_BATTLE_PASS_NO_PLANNED_EVENT_BATTLEPASS	Es zur Zeit kein Battle-Pass Event geplant!
+EXTENDET_BATTLE_PASS_PLANNED_NEXT_EVENT_BATTLEPASS	Es ist ein Battle-Pass Event geplant!
+EXTENDET_BATTLE_PASS_TIME_TO_NEXT_EVENT_BATTLEPASS	Zeit bis zum Event Battle-Pass: %s
+EXTENDET_BATTLE_PASS_SEASON_TITLE	Battle-Pass Informationen
+EXTENDET_BATTLE_PASS_SEASON_NAME	Season: %s
+EXTENDET_BATTLE_PASS_SEASON_TOTAL_MISSIONS	Missionen in dieser Season: %d
+EXTENDET_BATTLE_PASS_SEASON_CURRENT_MISSIONS	Missionen abgeschlossen: %d / %d
+EXTENDET_BATTLE_PASS_SEASON_DATE_FROM	Vom
+EXTENDET_BATTLE_PASS_SEASON_DATE_TO	Bis
+EXTENDET_BATTLE_PASS_SEASON_REST_TIME	Verbleibende Zeit: %s
+EXTENDET_BATTLE_PASS_SEASON_PROGRESS	Fortschritt aller Missionen
+EXTENDET_BATTLE_PASS_MISSION_MISSION_NAME	Missionsname
+EXTENDET_BATTLE_PASS_MISSION_NAME	Missionsname
+EXTENDET_BATTLE_PASS_MISSION_STATUS	Status
+EXTENDET_BATTLE_PASS_MISSION_INFO	Information
+EXTENDET_BATTLE_PASS_MISSION_STATUS	Status: 
+EXTENDET_BATTLE_PASS_MISSION_STATUS_IN_PROGRESS	|cfffeff7d|H|hNoch nicht Erfüllt!|h|r
+EXTENDET_BATTLE_PASS_MISSION_STATUS_FINISH	|cff82ff7d|H|hBeendet!|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION	Information:
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_MONSTER	Monster: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_MINLEVEL	Mindest Lv.: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_ITEM	Gegenstand: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_ORE	Erz: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_FISH	Fisch: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_MAPNAME	Map: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_GUILDWARTYPE	Gildenkrieg Typ: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_PET_MINTYPE	Min. Pet-Typ: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_DUNGEON	Dungeon: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_MINIGAME	Minigame: |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_COUNT	Noch verbl.: |cfffeff7d|H|h%s|h|r / |cff82ff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_COUNT_GOLD	Noch verbl.: |cfffeff7d|H|h%s|h|r
+EXTENDET_BATTLE_PASS_MISSION_INFORMATION_PERCENT	Erfüllt zu |cfffeff7d|H|h%.2f%%|h|r
+EXTENDET_BATTLE_PASS_DESCRIPTION	Beschreibung:
+EXTENDET_BATTLE_PASS_MISSION_COMPLEDET	Mission beendet
+EXTENDET_BATTLE_PASS_NONE_COND_TITLE_MOB	Monster
+EXTENDET_BATTLE_PASS_NONE_COND_TITLE_ITEM	Gegenstände
+EXTENDET_BATTLE_PASS_NONE_COND_TITLE_FISH	Fische
+EXTENDET_BATTLE_PASS_NONE_COND_TITLE_DUNGEON	Beende versch. Dungeons
+EXTENDET_BATTLE_PASS_NONE_COND_TITLE_MINIGAME	Mini-Games
+EXTENDET_BATTLE_PASS_TYPENAME_1	Töte %s
+EXTENDET_BATTLE_PASS_TYPENAME_1_DESC_1	Töte %sx %s.
+EXTENDET_BATTLE_PASS_TYPENAME_1_DESC_2	Töte %sx beliebige Monster
+EXTENDET_BATTLE_PASS_TYPENAME_2	Töte %s Spieler
+EXTENDET_BATTLE_PASS_TYPENAME_2_DESC_1	Töte %s Spieler. Spieler aus jedem Reich zählen. Die Spieler müssen mindestens Level %s sein!
+EXTENDET_BATTLE_PASS_TYPENAME_2_DESC_2	Töte %s Spieler. Spieler aus jedem Reich zählen. Es gibt kein Level-Limit!
+EXTENDET_BATTLE_PASS_TYPENAME_3	Gesamtschaden an Monster
+EXTENDET_BATTLE_PASS_TYPENAME_3_DESC_1	Erreiche einen Gesamten Schaden von %s bei %s.
+EXTENDET_BATTLE_PASS_TYPENAME_3_DESC_2	Erreiche einen Gesamten Schaden von %s. Es wird bei jedem Monster gezählt!
+EXTENDET_BATTLE_PASS_TYPENAME_4	Gesamtschaden an Spielern
+EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_1	Erreiche einen Gesamten Schaden von %s bei Spielern mit Min-Lv %d. Spieler aus jedem Reich zählen.
+EXTENDET_BATTLE_PASS_TYPENAME_4_DESC_2	Erreiche einen Gesamten Schaden von %s bei Spielern. Spieler aus jedem Reich zählen.
+EXTENDET_BATTLE_PASS_TYPENAME_5	Benutze %s
+EXTENDET_BATTLE_PASS_TYPENAME_5_DESC_1	Du musst %sx %s benutzen oder öffnen um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_5_DESC_2	Du musst %sx ein Gegenstand benutzen oder öffnen um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_6	Verkaufe %s
+EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_1	Verkaufe %sx %s bei NPC's um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_6_DESC_2	Verkaufe %sx ein Gegenstand bei NPC's um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_7	Crafte dir %s
+EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_1	Crafte %sx %s um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_7_DESC_2	Crafte %sx ein Gegenstand um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_8	Verbessere %s
+EXTENDET_BATTLE_PASS_TYPENAME_8_DESC_1	Verbessere %sx %s auf die nächste Stufe um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_8_DESC_2	Verbessere %s Gegenstände auf die nächste Stufe um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_9	Zerstöre %s
+EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_1	Zerstöre %sx %s um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_9_DESC_2	Zerstöre %s Gegenstände um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_10_1	Erbeute %s
+EXTENDET_BATTLE_PASS_TYPENAME_10_2	Baue %s ab
+EXTENDET_BATTLE_PASS_TYPENAME_10_1_DESC_1	Erbeute %sx %s von Monstern um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_10_2_DESC_1	Baue %sx %s ab um diese Mission zu erfüllen
+EXTENDET_BATTLE_PASS_TYPENAME_10_DESC_2	Erbeute %s verschiedene Gegenstände um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_11	Angel %s
+EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_1	Ziehe %sx %s aus dem Wasser um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_11_DESC_2	Ziehe %sx einen beliebigen Fisch aus dem Wasser um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_12	Grille %s
+EXTENDET_BATTLE_PASS_TYPENAME_12_DESC_1	Grille %sx %s am Lagerfeuer um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_12_DESC_2	Grille %sx einen beliebigen Fisch am Lagerfeuer um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_13	Töte %s
+EXTENDET_BATTLE_PASS_TYPENAME_13_DESC_1	Töte %sx %s um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_13_DESC_2	Töte %s mal einen beliebigen Fisch um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_14	Sammle %s EXP
+EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_1	Sammle %s EXP von %s um diese Mission zu erfüllen. Es zählt die Basis EXP (Levelunabhängig)!
+EXTENDET_BATTLE_PASS_TYPENAME_14_DESC_2	Sammle %s EXP von beliebigen Monstern um diese Mission zu erfüllen. Es zählt die Basis EXP (Levelunabhängig)!
+EXTENDET_BATTLE_PASS_TYPENAME_15	Sammle %s Yang
+EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_1	Sammle %s Yang von Monstern auf der Map %s um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_15_DESC_2	Sammle %s Yang von Monstern um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_16	Spiele Gildenkriege
+EXTENDET_BATTLE_PASS_TYPENAME_16_DESC_1	Beende %sx einen Gildenkrieg des Typs %s.
+EXTENDET_BATTLE_PASS_TYPENAME_16_DESC_2	Beende %sx einen Gildenkrieg eines Beliebigen Typs.
+EXTENDET_BATTLE_PASS_TYPENAME_17	Spende EXP in eine Gilde
+EXTENDET_BATTLE_PASS_TYPENAME_17_DESC_1	Spende %s EXP in eine Gilde.
+EXTENDET_BATTLE_PASS_TYPENAME_18	Crafte %s Gaya
+EXTENDET_BATTLE_PASS_TYPENAME_18_DESC_1	Crafte dir %s Gaya.
+EXTENDET_BATTLE_PASS_TYPENAME_19	Kaufe im Gaya-Shop ein
+EXTENDET_BATTLE_PASS_TYPENAME_19_DESC_1	Kaufe im Gaya-Shop Gegenstände im Gesamtwert von %s Gaya.
+EXTENDET_BATTLE_PASS_TYPENAME_20	Verzaubere ein Pet %s mal
+EXTENDET_BATTLE_PASS_TYPENAME_20_DESC_1	Verzaubere ein Pet %sx. Das Pet muss dabei mindestens Pettyp %s erreichen.
+EXTENDET_BATTLE_PASS_TYPENAME_20_DESC_2	Verzaubere ein Pet %sx.
+EXTENDET_BATTLE_PASS_TYPENAME_21	%s
+EXTENDET_BATTLE_PASS_TYPENAME_21_DESC_1	%s: Beende %sx diesen Dungeon um diese Mission zu erfüllen.
+EXTENDET_BATTLE_PASS_TYPENAME_21_DESC_2	Beende %sx einen beliebigen Dungeon.
+EXTENDET_BATTLE_PASS_TYPENAME_22	Spiele %s
+EXTENDET_BATTLE_PASS_TYPENAME_22_DESC_1	Spiele und Beende %sx das Mini-Game %s.
+EXTENDET_BATTLE_PASS_TYPENAME_22_DESC_2	Spiele und Beende %sx ein Beliebiges Mini-Game.
+EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_64	Tal von Seugryong
+EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_65	Hwang-Tempel
+EXTENDET_BATTLE_PASS_MAP_NAME_BY_IDX_72	Grotte 1
+EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_1	Feld-Gildenkrieg
+EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_2	Arena-Gildenkrieg
+EXTENDET_BATTLE_PASS_GUILDWAR_TYPE_NAME_3	Flaggen-Gildenkrieg
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_1	Der Dämonenturm
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_2	Der Drachenraum
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_3	Der Devil's Catacomb
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_4	Die Rotdrachenfestung
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_5	Die Nemere Warte
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_6	Die Spinnenbaroness
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_7	Der Meleys Hort
+EXTENDET_BATTLE_PASS_DUNGEON_NAME_8	Antiker Jungle
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_1	Okey-Karten-Spiel
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_2	Schnapp den König
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_3	Yutnori
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_4	Seherkartenspiel
+EXTENDET_BATTLE_PASS_MINIGAME_NAME_5	Fischpuzzlespiel
+PRIVATESHOPSEARCH_YANG	Yang
+PRIVATESHOPSEARCH_BUY	Kaufen
+PRIVATESHOPSEARCH_COUNT	Anzahl
+PRIVATESHOPSEARCH_ITEMNAME	Name
+PRIVATESHOPSEARCH_ITEMTYPE	Items
+PRIVATESHOPSEARCH_JOB	Klasse
+PRIVATESHOPSEARCH_LEVEL	Level
+PRIVATESHOPSEARCH_PRICE	Preis
+PRIVATESHOPSEARCH_REFINE	Item Level
+PRIVATESHOPSEARCH_SEARCH	Suche
+PRIVATESHOPSEARCH_SEARCH_BAR	Suche
+PRIVATESHOPSEARCH_SELECT	Auswählen
+PRIVATESHOPSEARCH_SELLER	Auswählen
+PRIVATESHOPSEARCH_VALUE	Wert:
+TELEPORT_DUNGEON_CITY	Dungeon & Crafting Stadt
+TELEPORT_DUNGEON_CITY_DESC	Genau hier ist der Ort in dem du die Dungeons von Elendos meistern kannst. Außerdem findet du hier mehere Npcs die dir nützliche Items herstellen können.
+TELEPORT_BUTTON_CRAFTING	Crafting Gebiet
+TELEPORT_BUTTON_DUNGEONS	Dungeon Gebiet
+TELEPORT_MAP_WORLDBOSS_FIRE	Feuer / Welten Boss
+TELEPORT_MAP_WORLDBOSS_FIRE_DESC	Ohja! Hier wird es wirklich sehr heiß! Hier findest du den Feuer Welten Boss. Ich hoffe du hast genügend Wasser dabei.
+TELEPORT_MAP_SHADOW_TOWER	Schattenturm
+TELEPORT_MAP_SHADOW_TOWER_DESC	Immer diese lästigen Dämonen... Hier wird es echt gruselig! Ich hoffe du hast einen Exorzist vorbereitet.
+TELEPORT_MAP_DRAGONFIRE	Kap des Drachen / Nephrit / Donnerberge
+TELEPORT_MAP_DRAGONFIRE_DESC	Jaja.. Diese 3 Gebiete dürfen einfach nicht fehlen. Jeder kennt sie. Das Kap des Drachenfeuer so wie die Nephritbucht und die Donnerberge.
+TELEPORT_BUTTON_DRAGONFIRE	Kap des Drachenfeuers
+TELEPORT_BUTTON_NEPHRITEBUCHT	Nephritbucht
+TELEPORT_BUTTON_DONNERBERGE	Donnerberge
+TELEPORT_MAP_ENCHADWOOD	Verwunschener Wald
+TELEPORT_MAP_ENCHADWOOD_DESC	Der Wald an dem Träume war werden sagt man. Sei vorsichtig! Und nimm eine Axt am besten mit!
+TELEPORT_MAP_WATERFALL	Tal des Wassers
+TELEPORT_MAP_WATERFALL_DESC	Ich hoffe du hast deine Schwimmflügel eingepackt! Auf dieser wunderschönen Map kannst du Leveln und Farmen.
+TELEPORT_MAP_DRAGONCAVE	Weiße Drachenhöhle
+TELEPORT_MAP_DRAGONCAVE_DESC	Achtung Abenteurer! Man munkelt das hier ein kalter Wind herrscht. Hier kannst du Leveln und Farmen.
+TELEPORT_BOSSROOM_WHITE_DRAGON	Boss Raum
+TELEPORT_MAP_SANDOFDEATH	Sand des Todes
+TELEPORT_MAP_SANDOFDEATH_DESC	Am besten du ziehst dir etwas leichtere Kleidung an. Der Sand des Todes hat schon viele Abenteurer in die Knie gezwungen. Hier kannst du Leveln und Farmen.
+TELEPORT_MAP_LAVAFIELDS	Lava Felder
+TELEPORT_MAP_LAVAFIELDS_DESC	Verbrenn dich nicht! Hier ist die letzte Map von Elendos. Kämpfe und überlebe. Hier kannst du Leveln und Farmen.
+TELEPORT_MAP_ANTIK_JUNGLE	Antiker Jungle
+TELEPORT_MAP_ANTIK_JUNGLE_DESC	Ab gehts! Der Antike Jungle von Elendos ist das Zweite low Level Dungeon was du meistern kannst.
+TELEPORT_BUTTON_DUNGEONNPC	Port zum Dungeon Npc
+TELEPORT_MAP_CHAMBER_WISDOM	Kammer der Weisheit
+TELEPORT_MAP_CHAMBER_WISDOM_DESC	Los Pack dein Buch aus! Die Kammer der Weisheit ist nichts für faulpelze.
+TELEPORT_MAP_PFLANZEN_DUNGEON	Pilz Dungeon
+TELEPORT_MAP_PFLANZEN_DUNGEON_DESC	Wer die Natur lieb wird dieses Dungeon lieben! Aber Achtung... Es kann gefährlich werden.
+TELEPORT_MAP_SHARK_DUNGEON	Hai Dungeon
+TELEPORT_MAP_SHARK_DUNGEON_DESC	Achtung bissig! Vorsicht ist hier gefragt. Aber ich bin mir sicher das du es meistern kannst.
+TELEPORT_MAP_TROLL_CAVE	Magische Troll Höhle
+TELEPORT_MAP_TROLL_CAVE_DESC	Eine Magische Höhle. In der Trolle ihr Unwesen treiben. Sei vorsichtig.
+TELEPORT_MAP_PYRAMID	Antike Pyramide
+TELEPORT_MAP_PYRAMID_DESC	Über den Sand des Todes bis zur Antiken Pyramide. Hier wirst du auf die Sphinx treffen. Sei bereit!
+TELEPORT_MAP_SKORPION	Skorpion Ruinen
+TELEPORT_MAP_SKORPION_DESC	Achtung die Skorpion Ruinen auf Elendos sind sehr gefährlich. Hier brauchst du deine ganze Kraft um diese zu meistern.
+TELEPORT_BUTTON_REK	Rek Wiese
+TELEPORT_MAP_SPIDERDUNGEON_03	Spinnendungeon 3
+TELEPORT_MAP_SD1_DESC	Wer hier eine Spinnenphobie hat sollte sich in acht nehmen. Das SD1 ist ein guter Ort zum leveln.
+TELEPORT_MAP_SD2_DESC	Wer hier eine Spinnenphobie hat sollte sich in acht nehmen. Das SD2 ist ein guter Ort zum leveln.
+TELEPORT_MAP_SD3_DESC	Wer hier eine Spinnenphobie hat sollte sich in acht nehmen. Hier findest du auch den Eingang zur Bruthöhle der Spinnenbaroness. Das SD3 ist ein guter Ort zum leveln.
+TELEPORT_MAP_DT_DESC	Der Dämonenturm wird Teufelsturm oder DT genannt. Man erreicht den Dämonenturm über den Wächter des Dämonenturms im Hwang-Tempel.
+TELEPORT_MAP_DC_DESC	Die Teufels Katakomben ist ein sehr gefährlicher Ort. Um es zu betretten musst du erst den Sensenmann im Dämonenturm getötet haben.
+TELEPORT_MAP_GROTTE_DESC	Die Grotte der Verbannung ist eine der besten Level Plätze im low Level bereich. Drachentöter werden hier gesucht!
+TELEPORT_MAP_RAZA_DESC	Diese Map besteht aus 7 Zonen. Die erste Zone wird durch klicken auf Schlund des Am-heh geöffnet. Sei vorsichtig!
+TELEPORT_MAP_NEMERE_DESC	Nemeres Warte auch das Eis Dungeon genannt ist für Abenteurer mit Erfahrung genau das richtige.
+TELEPORT_MAP_SLIME_DUNGEON	Schleim Dungeon
+TELEPORT_MAP_SLIME_DUNGEON_DESC	Das Schleim Dungeon ist das Erste low Level Dungeon von Elendos was du meistern kannst.
+SHOW_COSTUME	Kostüm Anzeigen
+HIDE_COSTUME	Kostüm Verbergen
+SKILL_COLOR_TITLE	Farbe wählen
+SKILL_COLOR_PRESET_TITLE	Farbvoreinstellungen
+SKILL_COLOR_PRESET_SELECT	Wähle eine Farbe
+SKILL_COLOR_PRESET_SAVE	Gewählten Farbcode speichern
+SKILL_COLOR_PRESET_CLEAR	Ausgewählten Farbcode löschen
+SKILL_COLOR_CUSTOM_COLOR_CODE_TITLE	Farbcode
+SKILL_COLOR_DEFAULT	Standardfarbe verwenden
+SKILL_COLOR_CHANGE	Farbe ändern
+SKILL_COLOR_CANCEL	Abbrechen
+TELEPORT_MAP_DEFENSE	Schiffsverteidigung
+TELEPORT_MAP_DEFENSE_DESC	Ahoi Matrosen! Ihr möchtet auf die legendäre Adelaide? Das Schiff muss die Handelsroute sicher überqueren! Die Hydra und ihre Herde versuchen unser Schiff zu zerstören... Könnt ihr sie beschützen? Der Erfolg von unserer Mission hängt ganz an euch!
+TELEPORT_PVP_MAP	Elendos PvP Arena
+TELEPORT_PVP_MAP_DESC	Dem Drachengott zu ehren, wurde eine Kampf Arena erstellt! Setze dich gegen die anderen Spieler durch! Zeig aus welchem Material du gemacht bist! PvP Events finden hier ebenfalls statt.
+TELEPORT_BUTTON_PVPMAP	Port zum Anfang
+TELEPORT_MAP_ANDUNCATACOMB	Andun Katakomben
+TELEPORT_MAP_ANDUNCATACOMB_DESC	Genau hier wirst du an deine Grenzen kommen! Die Andum Katakomben sind für Spieler die sehr viel Erfahrung haben. Hier findest du auch noch 3 Bossmonster.
+TELEPORT_BUTTON_ENTRY_SOUL_SUNGEON	Port zum Seelendungeon
+TELEPORT_MAP_SOUL_DUNGEON	Seelen Dungeon
+TELEPORT_MAP_SOUL_DUNGEON_DESC	Das ist das letzte Dungeon auf Elendos. Hier musst du deine ganze Kraft sammeln! Bevor deine Seele geraubt wird.
+TELEPORT_MAP_WORLDBOSS_MYSTIC	Mystik / Welten Boss
+TELEPORT_MAP_WORLDBOSS_FIRE_MYSTIC	Oh nein! Hier ist es verdammt hell! Hier findest du den Mystik Welten Boss. Bring am besten eine Sonnenbrille mit.

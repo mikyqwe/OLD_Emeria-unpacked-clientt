@@ -1,0 +1,43 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/elendos_beta.tga]
+[COLOR=0xffd700;FONT_SIZE=15]Beta Process:
+*First Week
+*Second Week
+*Rewards for Beta Players
+*Stay Fair
+
+[CENTER_ALIGN;FONT_SIZE=18]The Beta:
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+
+[COLOR=ef4f00;FONT_SIZE=15]1. First Week
+
+The first week is about PvM. You should level up normally
+and play normally. We will see if everything fits as it should.
+If you find bugs or think that something is not right.
+Please report them in our Discord server.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Second Week
+
+The second week is about PvP. We want to see whether
+the PVP system on the Elendosfiles is good or bad. We need your help!
+You should do duels with all classes of characters and see
+if it fits or not. Again, if you find something, please
+report it in Discord.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. Rewards for Beta Players
+
+Every player who participates intensively in
+the beta of Elendosfiles will receive a limited costume set at the end.
+The exact set will be available on our Discord server.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Stay Fair
+
+We want Elendosfiles to be a long-term project.
+If you really find errors, report them. If it turns out
+that errors are not reported and are exploited.
+This person will be excluded from Elendosfiles and banned.
+

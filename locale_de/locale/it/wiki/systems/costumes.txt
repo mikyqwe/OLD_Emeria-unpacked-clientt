@@ -1,0 +1,57 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/costume_system.tga]
+[CENTER_ALIGN]A Costume is a valueable piece of equipment to decorate yourself with some useful bonuses on it. 
+[CENTER_ALIGN]The costume is equipped in the costume system tab, which opens with the costume system button
+[CENTER_ALIGN]on the player's inventory.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. General Informations
+*2. Armor Costume Bonuses
+*3. Weapon Costume Bonuses
+*4. Hairstyle Costume Bonuses
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=160; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. General Informations
+
+On Elendosfiles there is of course also a Costume System.
+You can find this in your Inventory.
+You get costumes from monsters, events, quests, item shop
+What bonuses are there on all Costumes?
+
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=280; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Armor Costume Bonuses
+
+*Max. HP: 2000, 2500, 3000, 4000
+*Strong against monsters:  5%, 10%, 15%, 20%, 25%, 30%, 35%, 40%, 45%.
+*Chance of critical hit: 5%, 10, 15%, 20%.
+*These are the most important bonuses you can get on Armour Costumes.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=460; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Weapon Costume Bonuses
+
+*Vitality: +12
+*Intelligence: +12
+*Strength: +12
+*Dexterity: +12
+*Strong against Monsters: 10%, 15%, 20%.
+*Strong against Half Human: 10%, 15%, 20%.
+*Chance of Critical Hit: 10%
+*Chance of Piercing Hit: 10%
+*These are the most important bonuses you can get on Weapon Costumes.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=710; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]4. Hairstyle Costume Bonuses
+
+*Max. HP: 2000, 2500, 3000, 4000
+*Strong against monsters:  5%, 10%, 15%, 20%, 25%, 30%, 35%, 40%, 45%.
+*Strong against Half Human: 5%, 10%, 15%, 20%.
+*Chance of critical hit: 5%, 10, 15%, 20%.
+These are the most important bonuses you can get on Hair Costumes.

@@ -1,0 +1,35 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/shop_search.tga]
+[CENTER_ALIGN]Here I explain our shop search system on Elendosfiles.
+[CENTER_ALIGN]This could really help you a lot...
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. What is Shop Search?
+*2. How does the shop search work?
+*3. What do I have to consider?
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=100; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. What is Shop Search?
+
+The shop search allows you to filter all items from player shops on Elendosfiles.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=210; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. How does the Shop Search work?
+
+
+If you press F9, you will see a window open. This is exactly the Shop Search.
+You can use the shop search on any Map1. Please make sure that you are on the same channel.
+Here you can see different categories. You can simply search for a specific item
+in the input field above or filter the items yourself by price.
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=295; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. What do I have to consider?
+
+The only thing you have to pay attention to is that you do not
+constantly reload the pages. That can cause you problems.
+
+

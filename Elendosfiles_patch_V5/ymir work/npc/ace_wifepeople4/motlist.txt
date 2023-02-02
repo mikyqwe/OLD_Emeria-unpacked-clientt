@@ -1,0 +1,3 @@
+GENERAL WAIT wait.msa 80
+GENERAL WAIT1 social.msa 15
+GENERAL WAIT2 spwait.msa 5

@@ -1,0 +1,32 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/talentbaum.tga]
+[CENTER_ALIGN]With the help of items to unlock points, you can expand your talent tree
+[CENTER_ALIGN]and unlock additional bonuses. The items are dropable ingame from bosses. 
+[CENTER_ALIGN]Let's get right into the details:
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Drop the talent tree item and unlock one point in the talent tree.
+*2. Increase the skills according to your wishes up to a maximum of level 
+*3. Unlock all skills from one row up to level 5 to activate the next row.
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=115; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Drop the talent tree item and unlock one point in the talent tree.
+
+[CENTER_ALIGN] You can drop an item called Power of the Angels from boss monsters.
+[CENTER_ALIGN] Right click on it to add one skill point for your talent tree.
+
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]2. Increase the skills according to your wishes up to a maximum of level 
+
+[CENTER_ALIGN] Simply learn new skills from the talent tree by increasing the points
+[CENTER_ALIGN] of the specified bonus.
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]3. Unlock all skills from one row up to level 5 to activate the next row.
+
+[CENTER_ALIGN] To unlock the next skills from the underlying row, you have to
+[CENTER_ALIGN] 
+
+

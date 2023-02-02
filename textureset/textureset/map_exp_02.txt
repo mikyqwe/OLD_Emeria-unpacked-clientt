@@ -1,0 +1,316 @@
+TextureSet
+
+TextureCount 31
+Start Texture001
+    "D:\ymir work\terrainmaps\sevencore\Laby_16.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture001
+Start Texture002
+    "D:\ymir work\terrainmaps\sevencore\Laby_16_dark.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture002
+Start Texture003
+    "D:\ymir work\terrainmaps\sevencore\Laby_16_s.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture003
+Start Texture004
+    "D:\ymir work\terrainmaps\sevencore\Laby_28.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture004
+Start Texture005
+    "D:\ymir work\terrainmaps\sevencore\Laby_30.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture005
+Start Texture006
+    "D:\ymir work\terrainmaps\sevencore\Laby_30_blue.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture006
+Start Texture007
+    "D:\ymir work\terrainmaps\sevencore\Laby_30_dark.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture007
+Start Texture008
+    "D:\ymir work\terrainmaps\sevencore\Laby_30_green.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture008
+Start Texture009
+    "D:\ymir work\terrainmaps\sevencore\Laby_30_red.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture009
+Start Texture010
+    "D:\ymir work\terrainmaps\sevencore\Laby_grass.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture010
+Start Texture011
+    "D:\ymir work\terrainmaps\sevencore\Laby_grass02.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture011
+Start Texture012
+    "D:\ymir work\terrainmaps\sevencoreLaby_grass6.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture012
+Start Texture013
+    "D:\ymir work\terrainmaps\sevencore\Laby_grass6_yellow.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture013
+Start Texture014
+    "D:\ymir work\terrainmaps\sevencore\Laby_grass9.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture014
+Start Texture015
+    "D:\ymir work\terrainmaps\sevencore\Laby_road5.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture015
+Start Texture016
+    "D:\ymir work\terrainmaps\sevencore\Laby_road6.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture016
+Start Texture017
+    "D:\ymir work\terrainmaps\sevencore\Laby_road7.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture017
+Start Texture018
+    "D:\ymir work\terrainmaps\sevencore\Laby_road8.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture018
+Start Texture019
+    "D:\ymir work\terrainmaps\sevencore\Laby_road9.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture019
+Start Texture020
+    "D:\ymir work\terrainmaps\sevencore\Laby_road66.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture020
+Start Texture021
+    "D:\ymir work\terrainmaps\sevencore\Laby_rock01.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture021
+Start Texture022
+    "D:\ymir work\terrainmaps\sevencore\Laby_rock01_s.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture022
+Start Texture023
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture023
+Start Texture024
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand_s.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture024
+Start Texture025
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand03.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture025
+Start Texture026
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand04.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture026
+Start Texture027
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand05.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture027
+Start Texture028
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand10.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture028
+Start Texture029
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand11.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture029
+Start Texture030
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand14.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture030
+Start Texture031
+    "D:\ymir work\terrainmaps\sevencore\Laby_sand12_s.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    90
+    0
+    0
+End Texture031
+
+
+

@@ -1,0 +1,13 @@
+TextureSet
+
+TextureCount 1
+Start Texture001
+    "d:\ymir work\terrainmaps\naga_throne_room\naga_throne_room_tile_d.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001

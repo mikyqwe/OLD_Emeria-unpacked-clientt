@@ -1,0 +1,14 @@
+TextureSet
+
+TextureCount 01
+
+Start Texture001
+    "d:\ymir work\terrainmaps\komnata\01.dds"
+    2.000000
+    2.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001

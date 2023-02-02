@@ -1,0 +1,23 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/bio_system.tga]
+[CENTER_ALIGN]There is a biology system on Elendosfiles.
+[CENTER_ALIGN]At the top of the minimap you will see a B, press on it to open it.
+[CENTER_ALIGN]Let's get right into the details:
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. Biologists description
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=105; CENTER_ALIGN]
+
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. Biologists description
+
+[CENTER_ALIGN]Elendosfiles has the classic biologist system. Lv.30 until Lv.94.
+[CENTER_ALIGN]The biologist deadline for each player is 15:00 minutes.
+[CENTER_ALIGN]You will receive an automatic message when you can hand in again.
+[CENTER_ALIGN]With Bera's Heart you can freeze the time and (infinite delivery) bosses drop them.
+[CENTER_ALIGN]Elixir of the researcher increases the delivery by 80%.
+[CENTER_ALIGN]You can buy the soul stones in the biologist shop.(trade Biologist Parchment). 
+
+
+

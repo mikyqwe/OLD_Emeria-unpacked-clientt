@@ -1,0 +1,7 @@
+title subImage
+version 2.0
+image "board_right.png"
+left 1
+top 1
+right 6
+bottom 27

@@ -1,0 +1,562 @@
+34419	"D:/ymir work/item/weapon/antike_glocke.mse"
+34429	"D:/ymir work/item/weapon/dämonenfächer.mse"
+34439	"D:/ymir work/item/weapon/drachenmaulglocke.mse"
+34449	"D:/ymir work/item/weapon/gelbdrachentöter.mse"
+34459	"D:/ymir work/item/weapon/giftschwert.mse"
+34469	"D:/ymir work/item/weapon/grollschwert.mse"
+34489	"D:/ymir work/item/weapon/heiliges_schwert.mse"
+34499	"D:/ymir work/item/weapon/herbstwindfächer.mse"
+34509	"D:/ymir work/item/weapon/hornbogen.mse"
+34519	"D:/ymir work/item/weapon/krähenstahlbogen.mse"
+34529	"D:/ymir work/item/weapon/löwenschwert.mse"
+34539	"D:/ymir work/item/weapon/orchideenglocke.mse"
+34479	"D:/ymir work/item/weapon/großteufelbogen.mse"
+34549	"D:/ymir work/item/weapon/roteisenklinge.mse"
+34559	"D:/ymir work/item/weapon/schwarzblattdolch.mse"
+34569	"D:/ymir work/item/weapon/seelenloses_messer.mse"
+34579	"D:/ymir work/item/weapon/teufelsflügel-chakram.mse"
+34589	"D:/ymir work/item/weapon/tritonschwert.mse"
+34599	"D:/ymir work/item/weapon/vollmondschwert.mse"
+56660	"D:/ymir work/effect/plechito/weapons/h2019_set/sword.mse"
+56661	"D:/ymir work/effect/plechito/weapons/h2019_set/dagger.mse"
+56662	"D:/ymir work/effect/plechito/weapons/h2019_set/bow.mse"
+56663	"D:/ymir work/effect/plechito/weapons/h2019_set/twohand.mse"
+56664	"D:/ymir work/effect/plechito/weapons/h2019_set/bell.mse"
+56665	"D:/ymir work/effect/plechito/weapons/h2019_set/fan.mse"
+56666	"D:/ymir work/effect/plechito/weapons/h2019_set/sword.mse"
+11317	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11318	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11319	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11517	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11518	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11519	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11987	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11988	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11989	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11717	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11718	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+11719	"D:/ymir work/pc/common/effect/armor/armor_7th_01.mse"
+327	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+328	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+329	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+3237	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+3238	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+3239	"D:/ymir work/pc/common/effect/sword/sword_7th.mse"
+2217	"D:/ymir work/pc/common/effect/sword/sword_7th_b.mse"
+2218	"D:/ymir work/pc/common/effect/sword/sword_7th_b.mse"
+2219	"D:/ymir work/pc/common/effect/sword/sword_7th_b.mse"
+1197	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+1198	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+1199	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+5177	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+5178	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+5179	"D:/ymir work/pc/common/effect/sword/sword_7th_s.mse"
+7317	"D:/ymir work/pc/common/effect/sword/sword_7th_w.mse"
+7318	"D:/ymir work/pc/common/effect/sword/sword_7th_w.mse"
+7319	"D:/ymir work/pc/common/effect/sword/sword_7th_w.mse"
+34277	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34278	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34279	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34287	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34288	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34289	"D:/ymir work/pc/common/effect/sword/element02_fire.mse"
+34297	"D:/ymir work/pc/common/effect/sword/element02_fire_b.mse"
+34298	"D:/ymir work/pc/common/effect/sword/element02_fire_b.mse"
+34299	"D:/ymir work/pc/common/effect/sword/element02_fire_b.mse"
+34307	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+34308	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+34309	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+34317	"D:/ymir work/pc/common/effect/sword/element02_fire_s.mse"
+34318	"D:/ymir work/pc/common/effect/sword/element02_fire_s.mse"
+34319	"D:/ymir work/pc/common/effect/sword/element02_fire_s.mse"
+34327	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+34328	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+34329	"D:/ymir work/pc/common/effect/sword/element02_fire_f.mse"
+33497	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33498	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33499	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33597	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33598	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33599	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33697	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33698	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33699	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33797	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33798	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+33799	"D:/ymir work/pc/common/effect/armor/aze_shining_orange.mse"
+12057	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12058	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12059	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12067	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12068	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12069	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12077	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12078	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12079	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12087	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12088	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+12089	"D:/ymir work/pc/common/effect/armor/aze_shining_blue.mse"
+34217	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34218	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34219	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34227	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34228	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34229	"D:/ymir work/pc/common/effect/sword/element03_ice.mse"
+34237	"D:/ymir work/pc/common/effect/sword/element03_ice_b.mse"
+34238	"D:/ymir work/pc/common/effect/sword/element03_ice_b.mse"
+34239	"D:/ymir work/pc/common/effect/sword/element03_ice_b.mse"
+34247	"D:/ymir work/pc/common/effect/sword/element03_ice_s.mse"
+34248	"D:/ymir work/pc/common/effect/sword/element03_ice_s.mse"
+34249	"D:/ymir work/pc/common/effect/sword/element03_ice_s.mse"
+34257	"D:/ymir work/pc/common/effect/sword/element03_ice_w.mse"
+34258	"D:/ymir work/pc/common/effect/sword/element03_ice_w.mse"
+34259	"D:/ymir work/pc/common/effect/sword/element03_ice_w.mse"
+34267	"D:/ymir work/pc/common/effect/sword/element03_ice_f.mse"
+34268	"D:/ymir work/pc/common/effect/sword/element03_ice_f.mse"
+34269	"D:/ymir work/pc/common/effect/sword/element03_ice_f.mse"
+467	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+468	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+469	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+3197	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+3198	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+3199	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+477	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+478	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+479	"D:/ymir work/pc/common/effect/sword/element05_daeji.mse"
+2377	"D:/ymir work/pc/common/effect/sword/element05_daeji_b.mse"
+2378	"D:/ymir work/pc/common/effect/sword/element05_daeji_b.mse"
+2379	"D:/ymir work/pc/common/effect/sword/element05_daeji_b.mse"
+1347	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+1348	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+1349	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+5347	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+5348	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+5349	"D:/ymir work/pc/common/effect/sword/element05_daeji_s.mse"
+7377	"D:/ymir work/pc/common/effect/sword/element05_daeji_w.mse"
+7378	"D:/ymir work/pc/common/effect/sword/element05_daeji_w.mse"
+7379	"D:/ymir work/pc/common/effect/sword/element05_daeji_w.mse"
+20007	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20008	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20009	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20257	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20258	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20259	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20507	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20508	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20509	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20757	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20758	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+20759	"D:/ymir work/pc/common/effect/armor/aze_shining_yellow.mse"
+279	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_sword_dragon_fire.mse"
+4049	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_dagger_dragon_fire.mse"
+2169	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_bow_dragon_fire.mse"
+7199	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_fan_dragon_fire.mse"
+5339	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_dagger_dragon_fire.mse"
+289	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_sword_dragon_fire.mse"
+209	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_sword_dragon_fire.mse"
+3189	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_dragoneffect/sync_twohandsword_dragon_fire.mse"
+47780	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+47781	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+47782	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+47783	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+47790	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+47791	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+47792	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+47793	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+43010	"D:/ymir work/effect/plechito/weapons/steampunk/armor.mse"
+43012	"D:/ymir work/effect/plechito/weapons/steampunk/armor.mse"
+33509	"D:/ymir work/pc/common/effect/armor/ridack_fire_armor.mse"
+33510	"D:/ymir work/pc/common/effect/armor/ridack_fire_armor.mse"
+21317	"D:/ymir work/item/weapon/ridack_armor.mse"
+21318	"D:/ymir work/item/weapon/ridack_armor.mse"
+21319	"D:/ymir work/item/weapon/ridack_armor.mse"
+21337	"D:/ymir work/item/weapon/ridack_armor.mse"
+21338	"D:/ymir work/item/weapon/ridack_armor.mse"
+21339	"D:/ymir work/item/weapon/ridack_armor.mse"
+21357	"D:/ymir work/item/weapon/ridack_armor.mse"
+21358	"D:/ymir work/item/weapon/ridack_armor.mse"
+21359	"D:/ymir work/item/weapon/ridack_armor.mse"
+21377	"D:/ymir work/item/weapon/ridack_armor.mse"
+21378	"D:/ymir work/item/weapon/ridack_armor.mse"
+21379	"D:/ymir work/item/weapon/ridack_armor.mse"
+21387	"D:/ymir work/item/weapon/ridack_sword.mse"
+21388	"D:/ymir work/item/weapon/ridack_sword.mse"
+21389	"D:/ymir work/item/weapon/ridack_sword.mse"
+21397	"D:/ymir work/item/weapon/ridack_sword_2h.mse"
+21398	"D:/ymir work/item/weapon/ridack_sword_2h.mse"
+21399	"D:/ymir work/item/weapon/ridack_sword_2h.mse"
+21407	"D:/ymir work/item/weapon/ridack_bow.mse"
+21408	"D:/ymir work/item/weapon/ridack_bow.mse"
+21409	"D:/ymir work/item/weapon/ridack_bow.mse"
+21417	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21418	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21419	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21427	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21428	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21429	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+21437	"D:/ymir work/item/weapon/ridack_fan.mse"
+21438	"D:/ymir work/item/weapon/ridack_fan.mse"
+21439	"D:/ymir work/item/weapon/ridack_fan.mse"
+21447	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21448	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21449	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21457	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21458	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21459	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21467	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21468	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21469	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21477	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21478	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21479	"D:/ymir work/pc/common/effect/armor/armor_shining_violett.mse"
+21487	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21488	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21489	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21497	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21498	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21499	"D:/ymir work/pc/common/effect/sword/element06_dark.mse"
+21507	"D:/ymir work/pc/common/effect/sword/element06_dark_b.mse"
+21508	"D:/ymir work/pc/common/effect/sword/element06_dark_b.mse"
+21509	"D:/ymir work/pc/common/effect/sword/element06_dark_b.mse"
+21517	"D:/ymir work/pc/common/effect/sword/element06_dark_s.mse"
+21518	"D:/ymir work/pc/common/effect/sword/element06_dark_s.mse"
+21519	"D:/ymir work/pc/common/effect/sword/element06_dark_s.mse"
+21527	"D:/ymir work/pc/common/effect/sword/element06_dark_w.mse"
+21528	"D:/ymir work/pc/common/effect/sword/element06_dark_w.mse"
+21529	"D:/ymir work/pc/common/effect/sword/element06_dark_w.mse"
+21537	"D:/ymir work/pc/common/effect/sword/element06_dark_f.mse"
+21538	"D:/ymir work/pc/common/effect/sword/element06_dark_f.mse"
+21539	"D:/ymir work/pc/common/effect/sword/element06_dark_f.mse"
+21567	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21568	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21569	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21577	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21578	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21579	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21587	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21588	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21589	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21597	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21598	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21599	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_armor.mse"
+21607	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_sword.mse"
+21608	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_sword.mse"
+21609	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_sword.mse"
+21617	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_spear.mse"
+21618	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_spear.mse"
+21619	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_spear.mse"
+21627	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bow.mse"
+21628	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bow.mse"
+21629	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bow.mse"
+21637	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_knife.mse"
+21638	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_knife.mse"
+21639	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_knife.mse"
+21647	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bell.mse"
+21648	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bell.mse"
+21649	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_bell.mse"
+21657	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_fan.mse"
+21658	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_fan.mse"
+21659	"D:/ymir work/effect/ridack_work/ridack_effect/ice_biest_effekte/ridack_fan.mse"
+21707	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21708	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21709	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21717	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21718	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21719	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21727	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21728	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21729	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21737	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21738	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21739	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_armor.mse"
+21747	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_sword.mse"
+21748	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_sword.mse"
+21749	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_sword.mse"
+21757	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_spear.mse"
+21758	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_spear.mse"
+21759	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_spear.mse"
+21767	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bow.mse"
+21768	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bow.mse"
+21769	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bow.mse"
+21777	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_knife.mse"
+21778	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_knife.mse"
+21779	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_knife.mse"
+21787	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bell.mse"
+21788	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bell.mse"
+21789	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_bell.mse"
+21797	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_fan.mse"
+21798	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_fan.mse"
+21799	"D:/ymir work/effect/ridack_work/ridack_effect/zodiac_gold/ridack_fan.mse"
+
+#Plechi Frost Waffen
+53374	"D:/ymir work/effect/plechito/weapons/christmas2021_2/sword_glow.mse"
+53375	"D:/ymir work/effect/plechito/weapons/christmas2021_2/dagger_glow.mse"
+53376	"D:/ymir work/effect/plechito/weapons/christmas2021_2/bow_glow.mse"
+53377	"D:/ymir work/effect/plechito/weapons/christmas2021_2/twohand_glow.mse"
+53378	"D:/ymir work/effect/plechito/weapons/christmas2021_2/bell_glow.mse"
+53379	"D:/ymir work/effect/plechito/weapons/christmas2021_2/fan_glow.mse"
+
+# Plechi Frost Kostüme (Blauer Kreis effekt)
+53370	"D:/ymir work/effect/plechito/weapons/christmas2021_2/costume_glow_body.mse"
+53371	"D:/ymir work/effect/plechito/weapons/christmas2021_2/costume_glow_body.mse"
+
+
+# Plechi Dark Ruler (Schwarze effekt Waffen)
+54374	"D:/ymir work/effect/plechito/weapons/dark_cult_set/sword_glow.mse"
+54375	"D:/ymir work/effect/plechito/weapons/dark_cult_set/dagger_glow.mse"
+54376	"D:/ymir work/effect/plechito/weapons/dark_cult_set/bow_glow.mse"
+54377	"D:/ymir work/effect/plechito/weapons/dark_cult_set/twohand_glow.mse"
+54378	"D:/ymir work/effect/plechito/weapons/dark_cult_set/bell_glow.mse"
+54379	"D:/ymir work/effect/plechito/weapons/dark_cult_set/fan_glow.mse"
+
+
+# Plechi Dark Ruler (Schwarze Kostüme)
+
+54370	"D:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+54371	"D:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+
+
+
+# Mehok Meteor Waffen
+40560	"D:/ymir work/effect/mehok/23/sword.mse"
+40561	"D:/ymir work/effect/mehok/23/dagger.mse"
+40562	"D:/ymir work/effect/mehok/23/bow.mse"
+40563	"D:/ymir work/effect/mehok/23/twohand.mse"
+40564	"D:/ymir work/effect/mehok/23/bell.mse"
+40565	"D:/ymir work/effect/mehok/23/fan.mse"
+
+
+# Mehok Sirius Waffen
+40570	"D:/ymir work/effect/mehok/22/sword.mse"
+40571	"D:/ymir work/effect/mehok/22/dagger.mse"
+40572	"D:/ymir work/effect/mehok/22/bow.mse"
+40573	"D:/ymir work/effect/mehok/22/twohand.mse"
+40574	"D:/ymir work/effect/mehok/22/bell.mse"
+40575	"D:/ymir work/effect/mehok/22/fan.mse"
+40576	"D:/ymir work/effect/mehok/22/sura_sword.mse"
+
+#----BETA KOSTÜME----
+
+#Plechi Frost Waffen
+56234	"D:/ymir work/effect/plechito/weapons/christmas2021_2/sword_glow.mse"
+56235	"D:/ymir work/effect/plechito/weapons/christmas2021_2/dagger_glow.mse"
+56236	"D:/ymir work/effect/plechito/weapons/christmas2021_2/bow_glow.mse"
+56237	"D:/ymir work/effect/plechito/weapons/christmas2021_2/twohand_glow.mse"
+56238	"D:/ymir work/effect/plechito/weapons/christmas2021_2/bell_glow.mse"
+56239	"D:/ymir work/effect/plechito/weapons/christmas2021_2/fan_glow.mse"
+
+# Plechi Frost Kostüme (Blauer Kreis effekt)
+56230	"D:/ymir work/effect/plechito/weapons/christmas2021_2/costume_glow_body.mse"
+56231	"D:/ymir work/effect/plechito/weapons/christmas2021_2/costume_glow_body.mse"
+
+
+# Plechi Dark Ruler (Schwarze effekt Waffen)
+56274	"D:/ymir work/effect/plechito/weapons/dark_cult_set/sword_glow.mse"
+56275	"D:/ymir work/effect/plechito/weapons/dark_cult_set/dagger_glow.mse"
+56276	"D:/ymir work/effect/plechito/weapons/dark_cult_set/bow_glow.mse"
+56277	"D:/ymir work/effect/plechito/weapons/dark_cult_set/twohand_glow.mse"
+56278	"D:/ymir work/effect/plechito/weapons/dark_cult_set/bell_glow.mse"
+56279	"D:/ymir work/effect/plechito/weapons/dark_cult_set/fan_glow.mse"
+
+
+# Plechi Dark Ruler (Schwarze Kostüme)
+
+56270	"D:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+56271	"D:/ymir work/effect/plechito/weapons/dark_cult_set/costume_glow.mse"
+
+
+# Youtube und Twich Kostüme
+
+55360	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+55361	"D:/ymir work/effect/etc/streameffect/youtuber.mse"
+55362	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+55363	"D:/ymir work/effect/etc/streameffect/twitch.mse"
+
+
+# Plechito Engel Kostüme
+
+35690	"D:/ymir work/item/weapon/ridack_armor.mse"
+35691	"D:/ymir work/item/weapon/ridack_armor.mse"
+
+# Plechito Demon Kostüme
+
+37720	"D:/ymir work/item/weapon/ridack_armor.mse"
+37721	"D:/ymir work/item/weapon/ridack_armor.mse"
+
+# Plechito Demon Waffen
+
+37724	"D:/ymir work/item/weapon/ridack_sword.mse"
+37725	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+37726	"D:/ymir work/item/weapon/ridack_bow.mse"
+37727	"D:/ymir work/item/weapon/ridack_sword_2h.mse"
+37728	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+37729	"D:/ymir work/item/weapon/ridack_fan.mse"
+37730	"D:/ymir work/item/weapon/ridack_sword.mse"
+
+
+# Plechito Engel Waffen
+
+35694	"D:/ymir work/item/weapon/ridack_sword.mse"
+35695	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+35696	"D:/ymir work/item/weapon/ridack_bow.mse"
+35697	"D:/ymir work/item/weapon/ridack_sword_2h.mse"
+35698	"D:/ymir work/item/weapon/ridack_knife_bell.mse"
+35699	"D:/ymir work/item/weapon/ridack_fan.mse"
+35700	"D:/ymir work/item/weapon/ridack_sword.mse"
+
+
+
+# Ridack Konigs Kostüme
+
+37880	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_armor.mse"
+37881	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_armor.mse"
+37882	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_armor.mse"
+37883	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_armor.mse"
+
+# Ridack Konigs Waffen
+
+37884	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_sword.mse"
+37885	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_knife.mse"
+37886	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_bow.mse"
+37887	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_blacksword_2hand.mse"
+37888	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_bell.mse"
+37889	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_fan.mse"
+37890	"D:/ymir work/effect/ridack_work/ridack_effect/ridack_blackeffect/ridack_black_sword.mse"
+
+
+# Wicked Snake Kostüme
+
+37410	"D:/ymir work/item/weapon/wicked snake/armor.mse"
+37411	"D:/ymir work/item/weapon/wicked snake/armor.mse"
+
+
+# Wicked Snake Waffen
+
+37414	"D:/ymir work/item/weapon/wicked snake/sword.mse"
+37415	"D:/ymir work/item/weapon/wicked snake/dagger.mse"
+37416	"D:/ymir work/item/weapon/wicked snake/bow.mse"
+37417	"D:/ymir work/item/weapon/wicked snake/twohand.mse"
+37418	"D:/ymir work/item/weapon/wicked snake/bell.mse"
+37419	"D:/ymir work/item/weapon/wicked snake/fan.mse"
+37420	"D:/ymir work/item/weapon/wicked snake/sura_sword.mse"
+
+
+# Shadow Rabbit Kostüme
+
+37390	"D:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse"
+37391	"D:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse"
+
+
+# Shadow Rabbit Waffen
+
+37394	"D:/ymir work/effect/plechito/weapons/easter2022_2/sword_glow.mse"
+37395	"D:/ymir work/effect/plechito/weapons/easter2022_2/dagger_glow.mse"
+37396	"D:/ymir work/effect/plechito/weapons/easter2022_2/bow_glow.mse"
+37397	"D:/ymir work/effect/plechito/weapons/easter2022_2/twohand_glow.mse"
+37398	"D:/ymir work/effect/plechito/weapons/easter2022_2/bell_glow.mse"
+37399	"D:/ymir work/effect/plechito/weapons/easter2022_2/fan_glow.mse"
+37400	"D:/ymir work/effect/plechito/weapons/easter2022_2/sword_glow.mse"
+
+
+# Normal Rabbit Kostüme
+
+37370	"D:/ymir work/effect/plechito/weapons/easter2022_1/costume_glow.mse"
+37371	"D:/ymir work/effect/plechito/weapons/easter2022_1/costume_glow.mse"
+
+
+# Normal Rabbit Waffen
+
+37374	"D:/ymir work/effect/plechito/weapons/easter2022_1/sword_glow.mse"
+37375	"D:/ymir work/effect/plechito/weapons/easter2022_1/dagger_glow.mse"
+37376	"D:/ymir work/effect/plechito/weapons/easter2022_1/bow_glow.mse"
+37377	"D:/ymir work/effect/plechito/weapons/easter2022_1/twohand_glow.mse"
+37378	"D:/ymir work/effect/plechito/weapons/easter2022_1/bell_glow.mse"
+37379	"D:/ymir work/effect/plechito/weapons/easter2022_1/fan_glow.mse"
+37380	"D:/ymir work/effect/plechito/weapons/easter2022_1/sword_glow.mse"
+
+
+
+# Wicked Snake Kostüme IS
+
+39160	"D:/ymir work/item/weapon/wicked snake/armor.mse"
+39161	"D:/ymir work/item/weapon/wicked snake/armor.mse"
+
+
+# Wicked Snake Waffen IS
+
+39164	"D:/ymir work/item/weapon/wicked snake/sword.mse"
+39165	"D:/ymir work/item/weapon/wicked snake/dagger.mse"
+39166	"D:/ymir work/item/weapon/wicked snake/bow.mse"
+39167	"D:/ymir work/item/weapon/wicked snake/twohand.mse"
+39168	"D:/ymir work/item/weapon/wicked snake/bell.mse"
+39169	"D:/ymir work/item/weapon/wicked snake/fan.mse"
+39170	"D:/ymir work/item/weapon/wicked snake/sura_sword.mse"
+
+
+# Shadow Rabbit Kostüme IS
+
+39140	"D:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse"
+39141	"D:/ymir work/effect/plechito/weapons/easter2022_2/costume_glow.mse"
+
+
+# Shadow Rabbit Waffen IS
+
+39144	"D:/ymir work/effect/plechito/weapons/easter2022_2/sword_glow.mse"
+39145	"D:/ymir work/effect/plechito/weapons/easter2022_2/dagger_glow.mse"
+39146	"D:/ymir work/effect/plechito/weapons/easter2022_2/bow_glow.mse"
+39147	"D:/ymir work/effect/plechito/weapons/easter2022_2/twohand_glow.mse"
+39148	"D:/ymir work/effect/plechito/weapons/easter2022_2/bell_glow.mse"
+39149	"D:/ymir work/effect/plechito/weapons/easter2022_2/fan_glow.mse"
+39150	"D:/ymir work/effect/plechito/weapons/easter2022_2/sword_glow.mse"
+
+
+# Normal Rabbit Kostüme IS
+
+39120	"D:/ymir work/effect/plechito/weapons/easter2022_1/costume_glow.mse"
+39121	"D:/ymir work/effect/plechito/weapons/easter2022_1/costume_glow.mse"
+
+
+# Normal Rabbit Waffen IS
+
+39124	"D:/ymir work/effect/plechito/weapons/easter2022_1/sword_glow.mse"
+39125	"D:/ymir work/effect/plechito/weapons/easter2022_1/dagger_glow.mse"
+39126	"D:/ymir work/effect/plechito/weapons/easter2022_1/bow_glow.mse"
+39127	"D:/ymir work/effect/plechito/weapons/easter2022_1/twohand_glow.mse"
+39128	"D:/ymir work/effect/plechito/weapons/easter2022_1/bell_glow.mse"
+39129	"D:/ymir work/effect/plechito/weapons/easter2022_1/fan_glow.mse"
+39130	"D:/ymir work/effect/plechito/weapons/easter2022_1/sword_glow.mse"
+
+
+
+# Prestige Kostüme (1)
+
+39820	"D:/ymir work/effect/plechito/weapons/halfmoon_set/costume_glow.mse"
+39821	"D:/ymir work/effect/plechito/weapons/halfmoon_set/costume_glow.mse"
+
+
+# Prestige Waffen Kostüme (1)
+
+39824	"D:/ymir work/effect/plechito/weapons/halfmoon_set/sword_glow.mse"
+39825	"D:/ymir work/effect/plechito/weapons/halfmoon_set/dagger_glow.mse"
+39826	"D:/ymir work/effect/plechito/weapons/halfmoon_set/bow_glow.mse"
+39827	"D:/ymir work/effect/plechito/weapons/halfmoon_set/twohand_glow.mse"
+39828	"D:/ymir work/effect/plechito/weapons/halfmoon_set/bell_glow.mse"
+39829	"D:/ymir work/effect/plechito/weapons/halfmoon_set/fan_glow.mse"
+39830	"D:/ymir work/effect/plechito/weapons/halfmoon_set/sura_sword_glow.mse"
+
+
+# Kobobld Kostüme
+
+36420	"D:/ymir work/effect/plechito/weapons/stpatrick_set/costume_glow.mse"
+36421	"D:/ymir work/effect/plechito/weapons/stpatrick_set/costume_glow.mse"
+
+
+# Kobobld Waffen Kostüme
+
+36424	"D:/ymir work/effect/plechito/weapons/stpatrick_set/sword_glow.mse"
+36425	"D:/ymir work/effect/plechito/weapons/stpatrick_set/dagger_glow.mse"
+36426	"D:/ymir work/effect/plechito/weapons/stpatrick_set/bow_glow.mse"
+36427	"D:/ymir work/effect/plechito/weapons/stpatrick_set/twohand_glow.mse"
+36428	"D:/ymir work/effect/plechito/weapons/stpatrick_set/bell_glow.mse"
+36429	"D:/ymir work/effect/plechito/weapons/stpatrick_set/fan_glow.mse"
+36430	"D:/ymir work/effect/plechito/weapons/stpatrick_set/sura_sword_glow.mse"

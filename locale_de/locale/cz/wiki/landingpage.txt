@@ -1,0 +1,44 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/basicguide.tga]
+[CENTER_ALIGN;FONT_SIZE=30]The Basic Guide
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=30; CENTER_ALIGN]
+
+[CENTER_ALIGN]Here you can find the most important hotkeys!
+
+
+
+
+[X_PADDING=135;FONT_SIZE=15]* Open the pet window
+
+[X_PADDING=135;FONT_SIZE=15]* Toggle yang drop display
+
+[X_PADDING=135;FONT_SIZE=15]* Open the Switchbot
+
+[X_PADDING=135;FONT_SIZE=15]* Open Talent Tree
+
+[X_PADDING=135;FONT_SIZE=15]* Open Battlepass
+
+[X_PADDING=135;FONT_SIZE=15]* Open Shop Search
+
+[X_PADDING=135;FONT_SIZE=15]* Open Teleport Window
+
+[X_PADDING=135;FONT_SIZE=15]* Open Wheel of Fortune
+
+[X_PADDING=135;FONT_SIZE=15]* To mount and unmount your mount
+
+[X_PADDING=135;FONT_SIZE=15]* To mount and unmount your mount
+
+
+
+[IMG=d:/ymir work/ui/wiki/emoji/p.tga; Y=97; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f5.tga; Y=124; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f6.tga; Y=151; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f7.tga; Y=178; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f8.tga; Y=205; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f9.tga; Y=232; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f10.tga; Y=260; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/f12.tga; Y=287; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=319; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/g.tga; Y=319; X=60]
+[IMG=d:/ymir work/ui/wiki/emoji/ctrl.tga; Y=342; X=10]
+[IMG=d:/ymir work/ui/wiki/emoji/h.tga; Y=342; X=60]

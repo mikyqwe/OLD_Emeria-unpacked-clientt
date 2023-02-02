@@ -1,0 +1,61 @@
+
+[BANNER_IMG = d:/ymir work/ui/wiki/banners/the_beginning.tga]
+[CENTER_ALIGN]Hooray newbie. 
+[CENTER_ALIGN]First of all, thank you for playing Elendosfiles.
+[CENTER_ALIGN]You will find that fun comes first with us.
+[CENTER_ALIGN]I will explain a few things to you about how to get started on Elendosfiles.
+
+[COLOR=0xffd700;FONT_SIZE=15]Content List:
+*1. The start on Elendosfiles
+*2. What is the best way to level?
+*3. Vote 4 Buff
+*4. Useful systems to help you
+
+[IMG=d:/ymir work/ui/wiki/divider_long.tga; Y=140; CENTER_ALIGN]
+
+[CENTER_ALIGN;FONT_SIZE=18;COLOR=58ADFF]1. The start on Elendosfiles
+
+In your beginning on Elendosfiles, you should take your time to discover what's new in our server and how to use basic features. 
+Don't rush to level up, it's not a race! Also, make sure to walk around the city and explore the NPCs before 
+you start your adventures in Elendosfiles... As a gift from us, You get a complete Equipment+9 and a Permanent Mount, 3days Pet,
+A weapon costume for 3 days, 2x costume vouchers. That should make it really easy for you to get started.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]2. What is the best way to level?
+
+You will find that everything happens very quickly with us.
+You should be able to ascend in your Empires to level 5+ and take up your teachings.
+Then you can go directly to the neighbouring kingdom (Map 2).
+Now comes the point that is very important. Always make sure that you see which dungeons you can master on Elendosfiles.
+The beginner's Dungeon "Slime Cave", for example, is recommended from level 30 to 50.
+You can find the Dungeons and Level maps on your minimap with the "T" button.
+
+
+
+[COLOR=ef4f00;FONT_SIZE=15]3. Vote4Buff
+
+You can vote with us. If you do, you can get a Premium buff for 24 hours with a Vote Pass that you get
+in your Item Shop Warehouse. Take this to Uriel and you will receive the following bonuses to choose from.
+
+Bonuses:
+
+*+10% Strong against Half Humans
+*+3000 Max. HP
+*+10% Chance of piercing hits
+*+10% Strong against Monsters
+
+This should make your journey through Elendosfiles a little easier.
+
+
+[COLOR=ef4f00;FONT_SIZE=15]4. Useful systems to help you
+
+You will find that we do not lack systems. 
+On your tear through Elendosfiles you have the Battlepass which you can open under F8.
+There are useful quests here where you can pick up rewards.
+To improve your EQ, we have also included a shop search for you. You can find it under F9.
+These are 2 of over 20+ new systems with us. Look at the point Systems in Wiki.
+
+
+
+ 

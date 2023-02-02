@@ -1,0 +1,154 @@
+TextureSet
+
+TextureCount 15
+
+Start Texture001
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_01.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture001
+Start Texture002
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_02.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture002
+Start Texture003
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_03.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture003
+Start Texture004
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_04.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture004
+Start Texture005
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_05.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture005
+Start Texture006
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_06.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture006
+Start Texture007
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_07.dds"
+    3.000000
+    3.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture007
+Start Texture008
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_08.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture008
+Start Texture009
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_09.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture009
+Start Texture010
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_10.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture010
+Start Texture011
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_11.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture011
+Start Texture012
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_12.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture012
+Start Texture013
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_13.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture013
+Start Texture014
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_14.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture014
+Start Texture015
+    "d:\ymir work\terrainmaps\deadline2\lauernder_schlund\dl2_ls_15.dds"
+    7.000000
+    7.000000
+    0.000000
+    0.000000
+    0
+    0
+    0
+End Texture015

@@ -1,0 +1,2 @@
+import clientquestcommunication
+cqc = clientquestcommunication.ClientQuestCommunication()
