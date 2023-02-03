@@ -199,8 +199,8 @@ class CreateCharacterWindow(ui.Window):
 			snd.SetMusicVolume(systemSetting.GetMusicVolume())
 			snd.FadeInMusic("BGM/"+musicInfo.createMusic)
 
-		if constInfo.ENABLE_INTRO_ANIMATION == 1:
-			self.CreateAnimateBackground()
+		#if constInfo.ENABLE_INTRO_ANIMATION == 1:
+			#self.CreateAnimateBackground()
 			
 		app.ShowCursor()
 

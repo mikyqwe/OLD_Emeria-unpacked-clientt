@@ -69,8 +69,8 @@ class SelectEmpireWindow(ui.ScriptWindow):
 		for id in range(len(self.selectButtons)):
 			self.selectButtons[id].SetEvent(ui.__mem_func__(self.SelectEmpire), id)
 
-		if constInfo.ENABLE_INTRO_ANIMATION == 1:
-			self.CreateAnimateBackground()
+		#if constInfo.ENABLE_INTRO_ANIMATION == 1:
+			#self.CreateAnimateBackground()
 			
 		return 1
 

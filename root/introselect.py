@@ -465,8 +465,8 @@ class SelectCharacterWindow(ui.Window):
 		self.chrRenderer.SetParent(self.middle_window)
 		self.chrRenderer.Show()
 		
-		if constInfo.ENABLE_INTRO_ANIMATION == 1:
-			self.CreateAnimateBackground()
+		# if constInfo.ENABLE_INTRO_ANIMATION == 1:
+			# self.CreateAnimateBackground()
 			
 		return 1
     

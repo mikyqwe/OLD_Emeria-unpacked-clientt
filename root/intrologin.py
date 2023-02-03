@@ -293,7 +293,7 @@ class LoginWindow(ui.ScriptWindow):
 		self.GetChild("ch3_online").Hide()
 		self.GetChild("ch4_online").Hide()
 		
-		self.GetChild("animation_button").SetEvent(ui.__mem_func__(self.OnClickAnimationButton))
+		#self.GetChild("animation_button").SetEvent(ui.__mem_func__(self.OnClickAnimationButton))
 		
 		#for i in range(len(self.AccountManager)):
 			#self.AccountManager[i][1].Hide()
@@ -311,20 +311,20 @@ class LoginWindow(ui.ScriptWindow):
 		constInfo.SEL_LANG = int(lang)
 		
 		ani = "1"
-		try:
-			file = open("intro.cfg", "r")
-			ani = file.readlines()[0]
-			file.close()
-		except:
-			file = open("intro.cfg", "w")
-			file.write("1")
-			file.close()
+		# try:
+			# file = open("intro.cfg", "r")
+			# ani = file.readlines()[0]
+			# file.close()
+		# except:
+			# file = open("intro.cfg", "w")
+			# file.write("1")
+			# file.close()
 			
-		constInfo.ENABLE_INTRO_ANIMATION = int(ani)
+		# constInfo.ENABLE_INTRO_ANIMATION = int(ani)
 	
-		if constInfo.ENABLE_INTRO_ANIMATION == 1:
-			self.GetChild("animation_button").SetText("Hide Animation")
-			self.CreateAnimateBackground()
+		# if constInfo.ENABLE_INTRO_ANIMATION == 1:
+			# self.GetChild("animation_button").SetText("Hide Animation")
+			# self.CreateAnimateBackground()
 			
 	def CreateAnimateBackground(self):
 		self.AnimationImage = ui.AniImageBox()
@@ -544,17 +544,17 @@ class LoginWindow(ui.ScriptWindow):
 		os.system('@echo off && explorer "https://elendos.shop/register"')
 		return TRUE
 
-	def OnClickAnimationButton(self):
-		if constInfo.ENABLE_INTRO_ANIMATION == 0:
-			file = open("intro.cfg", "w")
-			file.write("1")
-			file.close()
-		if constInfo.ENABLE_INTRO_ANIMATION == 1:
-			file = open("intro.cfg", "w")
-			file.write("0")
-			file.close()
-		os.system('start Elendos.exe')
-		app.Exit()
+	# def OnClickAnimationButton(self):
+		# if constInfo.ENABLE_INTRO_ANIMATION == 0:
+			# file = open("intro.cfg", "w")
+			# file.write("1")
+			# file.close()
+		# if constInfo.ENABLE_INTRO_ANIMATION == 1:
+			# file = open("intro.cfg", "w")
+			# file.write("0")
+			# file.close()
+		# os.system('start Elendos.exe')
+		# app.Exit()
 
 ############################
 
